@@ -9,7 +9,7 @@ labels:
   - JavaScript
   - Game Development
   - Mobile App
-summary: "A building game I created for my Intro to Programming class, an intro JavaScript class from high school."
+summary: "A building game I created for my Intro to Programming class, an intro JavaScript class."
 ---
 
 <img class="img-fluid" src="../img/build_a_cake_still.png">
