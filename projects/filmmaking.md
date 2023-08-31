@@ -26,4 +26,4 @@ After receiving a pass to the new time machine attraction at her local fair, Lin
 In my Advanced Filmmaking class, another screenplay I wrote called "Noitalumis" was chosen to be produced by the class. However, due to the pandemic, the project was left unfinished and we were tasked with producing short films on our own. For my final project, I created a short animation called "Heart in the Park". 
 
 
-Waatch [Heart in the Park](https://drive.google.com/file/d/1h3aIV6LaPFNxmV16-ipIA2YnXnZbj1-_/view?usp=sharing) or learn more at [HBA Arts & Film Festival](https://hbaaff.hba.net/about-hbaaff).
+Watch [Heart in the Park](https://drive.google.com/file/d/1h3aIV6LaPFNxmV16-ipIA2YnXnZbj1-_/view?usp=sharing) or learn more at [HBA Arts & Film Festival](https://hbaaff.hba.net/about-hbaaff).
