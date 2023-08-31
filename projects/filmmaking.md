@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Irreversible_Poster.png
+image: img/Irreversible_Poster.jpg
 title: "Irreversible and Heart in the Park"
 date: 2020-05-20
 published: true
@@ -13,9 +13,9 @@ summary: "I created two short films for my Intro to Filmmaking and Advanced Film
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="400px" src="../img/Irreversible_Poster.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/heart_in_the_park_title.png" class="img-thumbnail" >
+  <img width="400px" src="../img/heart_in_the_park_still.png" class="img-thumbnail" >
 </div>
 
 In my Intro to Filmmaking class, one of our assignments was to write a screenplay. As a class, we collectively chose two screenplays to produce. My screenplay, "Irreversible", was one of two screenplays chosen to be produced by the class. During production, my roles were writer and co-director. Here is a pitch for the film: 
