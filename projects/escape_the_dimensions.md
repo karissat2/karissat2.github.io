@@ -9,7 +9,7 @@ labels:
   - Game Development
   - JavaScript
   - Mobile App
-summary: "Using JavaScript, I created an interactive game for my final project in my Intro to Programming high school class."
+summary: "Using JavaScript, I created an interactive game for my final project in my Intro to Programming class."
 ---
 
 <div class="text-center p-4">
