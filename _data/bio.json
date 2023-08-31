@@ -43,27 +43,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Learning Assistant",
+      "company": "UH Manoa Department of Mathematics",
+      "position": "MATH 215 Learning Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "August 2022",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+       "Assist MATH 215 (Applied Calculus I) students with weekly recitation worksheets",
+        "Offer help sessions to students outside of class time to review course material"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "UH Manoa Department of Mathematics",
+      "position": "MATH 241 Learning Assistant,
+      "website": "",
+      "startDate": "January 2022",
+      "endDate": "May 2022",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assist MATH 241 (Calculus I) students with weekly recitation worksheets",
+        "Offer help sessions to students outside of class time to review course material"
       ]
     }
   ],
@@ -96,15 +96,27 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Dean's List",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to undergraduate students who earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade and did not receive grades W, I, F, or NC for that semester."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
+      "title": "Mānoa Academic Merit Scholarship",
+      "date": "2021",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": An automatic $4,000 scholarship per year for four years of undergraduate study for first time degree-seeking students. Students must have a 3.8 high school GPA upon the time of application to UH Manoa."
+    },
+    {
+      "title": "Pearl Harbor Rotary Club",
+      "date": "2021",
+      "awarder": "Pearl Harbor Rotary Club",
+      "summary": "Scholarship awarded to applicants of the Hawaii Rotary Youth Foundation Scholarship Program, Pearl Harbor Branch."
+    },
+    {
+      "title": "Stacie and Julie Lee Scholarship",
+      "date": "2021",
+      "awarder": "Hawaii Baptist Academy",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
