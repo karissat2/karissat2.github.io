@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Irreversible_Poster.png
 title: "Irreversible and Heart in the Park"
 date: 2020-05-20
 published: true
