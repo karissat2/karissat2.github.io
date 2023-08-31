@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ETD_start/ETD_code.png
+image: img/ETD_start.png
 title: "Escape the Dimensions"
 date: 2021-05-21
 published: true
