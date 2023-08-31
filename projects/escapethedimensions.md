@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/escape the dimensions start page.png
 title: "Escape the Dimensions"
 date: 2021-05-21
 published: true
