@@ -12,7 +12,7 @@ summary: "Using JavaScript, I created an interactive game for my final project i
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/ETD_code.png" class="img-thumbnail" >
+  <img width="700px" src="../img/ETD_code.png" class="img-thumbnail" >
 </div>
 
 Escape the Dimensions is a puzzle-style adventure mobile game I developed for my final project for Intro to Programming, a class from high school. In the game, an evil character called the Controller has sucked the player into a black hole and has thrown the player off course as they travel home from visiting another planet. In order to leave the black hole, the player must collect a series of items the Controller requests. To collect said items, the player must perform a series of tasks in three different dimensions. 
