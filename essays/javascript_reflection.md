@@ -11,11 +11,9 @@ labels:
 
 ## Initial Thoughts About JavaScript
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+  Learning more about the nuances of JavaScript is interesting because it’s similar yet different from Java. Since JavaScript is similar to Java, I don’t feel overwhelmed when learning about what I can do with JavaScript, as I’m not learning an entirely new programming language from scratch. However, due to its similarity with Java, JavaScript is also sometimes confusing. Since I’m still getting used to coding in JavaScript, I’ve repeatedly made minor mistakes, as my hands are used to coding in Java. For example, I often write int or string before a variable name out of habit instead of var, let or const. 
+  Furthermore, since I’ve mainly used Java or C/C++ so far, I’m not used to writing parameters without data types and functions without a specific return type. I have to mentally keep track of a variable’s data type when reviewing my code, careful not to assign a string or character to a variable that’s meant to hold a number. 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
 
 ## JavaScript Newbie
 
