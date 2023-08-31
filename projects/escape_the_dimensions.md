@@ -22,4 +22,4 @@ Escape the Dimensions is a puzzle-style adventure mobile game I developed for my
 For this project, I implemented dropdown menus, buttons, and console log statements. Console log statements were used to record the player's choices. Buttons were used throughout the game to travel between the different dimensions and obtain items. Dropdown menus were used for a various parts of the game such as a passocde screen and agreement form. Players cannot move onto the final stage of the game until he or she completes all tasks and obtains all items needed. 
 
 
-If you would like, you can play the game here [Escape the Dimensions](https://studio.code.org/projects/applab/kfxRYqG93fIC2xD0DqVCAbT63u_I6bnxRB2vCoqUHBY).
+Play [Escape the Dimensions](https://studio.code.org/projects/applab/kfxRYqG93fIC2xD0DqVCAbT63u_I6bnxRB2vCoqUHBY).
