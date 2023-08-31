@@ -7,7 +7,8 @@ date: 2021-05-21
 published: true
 labels:
   - Game Development
-  - JavaScript 
+  - JavaScript
+  - Mobile App
 summary: "Using JavaScript, I created an interactive game for my final project in my Intro to Programming high school class."
 ---
 
