@@ -8,49 +8,29 @@ published: true
 labels:
   - Software Engineering
   - Stack Overflow
-  - 
+  - Questions
+  - Answers
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Why Ask Smart Questions? 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Asking smart questions as a software engineer is important when trying to come up with solutions to a problem. By specifying what one needs help on, others are able to provide helpful hints or answers in an efficient manner. Asking smart questions and providing background information also showcases your current knowledge on the problem and lets others know how one wants the problem to be solved. Furthermore, smart questions expand one’s knowledge on a topic and creates a collaborative learning environment with other software engineers, as other developers may have the same question and can learn from the information given by and to the original developer. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## A Smart Question
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+An example of a smart question on StackOverflow is given by a user who is having compiler issues. This person is having trouble compiling code using the “C/C++ Compile Run” extensions in Visual Studio Code. The user explains what they do when trying to compile the code and shows the error message they receive. The developer also explains what type of compiler they’re using, a cygwin64 compiler, and what type of operating system they’re using, Windows 7. They also show their extension settings and packages they installed within cygwin. Additionally, they describe the different methods they used in an attempt to solve their problem. The user tried different solutions such as reinstalling cygwin, reinstalling the extension and checking the system environment variable PATH. However, despite their attempts at solving the problem, they still have compiler issues, prompting them to ask others for ideas on how to fix their problem and/or why they are receiving this error. 
 
-Here's what I think: the difficult things will always be difficult.
+By giving a detailed description of their problem and the solutions they tried out, other users were able to give helpful feedback. One user gives an in-depth explanation about who and what VSCode is made for and why their code isn’t compiling, citing the reason that Windows 7 is an older, no longer supported platform. Another user points the writer to a tutorial while someone else recommends using Linux or Visual Studio Community, as it comes with everything included and configured from the start and running the installer will allow them to compile their code. These tips help the original user by explaining that their operating system and compiler is outdated and offer potential solutions by suggesting other platforms the original user could use. 
 
-## In the context of programming
+## A Not-So Smart Question
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+An example of a non-smart question is given by a developer on StackOverflow who coded in Java and received an error message when trying to convert a string to an integer. When trying to convert a string to an integer, the user received an error that said “bad source file: .\Integer.java file does not contain class Integer”. Although they clarify the error message, the user only posts a snippet of their code and doesn’t clearly explain what their code is supposed to do. 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+As a result, other users in the reply section ask the developer to post more of their code or a reproducible code sample that will allow other users to reproduce the original code’s issues. However, the original user does not follow up with these requests. Furthermore, one user tries to help the developer by explaining that a chunk of code can be replaced with just a few lines of code that would produce the same outcome. However, although the developer thanks this user for their help, they explain that they’re not allowed to write a program with a few lines and only wants to know where they made a mistake in their code, hinting that this may be a homework assignment. Furthermore, this shows that the user wants someone else to solve their problem for them rather than wanting to solve it together with other users and learn from their mistake. 
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
 
-## In the context of engineering
+## Gained Knowledge
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+By looking through various questions on StackOverflow and reading through an example of a smart question and non-smart question, I learned that it’s best to fully describe the goal of the program, the problem at hand, the steps one has taken to solve the problem, and how these other steps were not helpful. If one has tried out other solutions before asking for help but does not specify this, other people trying to help the developer may give information the user already knows or tips that don’t relate to the user’s intended question. By giving detailed information about the problem and failed solutions, others may know how to help fix the problem or provide helpful tips. This also helps others give answers that get straight to the point since they’re aware of what the developer may or may not know, allowing the developer to have a higher chance of receiving the type of help they’re looking for. 
