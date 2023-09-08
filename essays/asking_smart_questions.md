@@ -12,7 +12,7 @@ labels:
   - Answers
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/essays/smart_question_image.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/essays/smart_question_image.png">
 
 ## Why Ask Smart Questions? 
 
