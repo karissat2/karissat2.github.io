@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/essays/design_image.jpg">
+<img width="700px" class="rounded float-start pe-4" src="../img/essays/design_image.jpg">
 
 ## Software Engineering is...fun? 
 
