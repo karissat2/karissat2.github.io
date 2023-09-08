@@ -9,6 +9,8 @@ labels:
   - JavaScript
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/essays/confused_snoopy.png">
+
 ## Initial Thoughts About JavaScript
 
   Learning more about the nuances of JavaScript is interesting because it’s similar yet different from Java. Since JavaScript is similar to Java, I don’t feel overwhelmed when learning about what I can do with JavaScript, as I’m not learning an entirely new programming language from scratch. However, due to its similarity with Java, JavaScript is also sometimes confusing. Since I’m still getting used to coding in JavaScript, I’ve repeatedly made minor mistakes, as my hands are used to coding in Java. For example, I often write int or string before a variable name out of habit instead of var, let or const. 
