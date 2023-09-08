@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Irreversible_Poster_crop.jpg
+image: img/Irreversible_Poster_square.jpg
 title: "Irreversible and Heart in the Park"
 date: 2020-05-20
 published: true
