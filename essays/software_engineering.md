@@ -4,7 +4,7 @@ type: essay
 title: "Initial Thoughts on Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
-published: false
+published: true
 labels:
   - JavaScript
   - Software Engineering
