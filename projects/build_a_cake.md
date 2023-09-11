@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cake_slice_square.png
 title: "Build-A-Cake"
-date: 2021-04-26
+date: 2021
 published: true
 labels:
   - JavaScript
