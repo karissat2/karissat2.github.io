@@ -12,7 +12,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/essays/coding_standards.png">
+<img width="450px" class="rounded float-start pe-4" src="../img/essays/coding_standards.png">
 
 Want to improve the quality of your code and become a better programmer? Great! Following and fixing your program to match coding standards is a great place to start! But wait…what are coding standards and how are they helpful? 
 
