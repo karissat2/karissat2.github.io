@@ -23,3 +23,4 @@ For this project, I implemented dropdown menus, buttons, and console log stateme
 
 
 Play [Escape the Dimensions](https://studio.code.org/projects/applab/kfxRYqG93fIC2xD0DqVCAbT63u_I6bnxRB2vCoqUHBY).
+View [source code](https://studio.code.org/projects/applab/kfxRYqG93fIC2xD0DqVCAbT63u_I6bnxRB2vCoqUHBY/view).
