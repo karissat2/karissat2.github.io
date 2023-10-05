@@ -11,7 +11,11 @@ labels:
   - HTML and CSS
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+Original | Recreation
+<img width="200px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_1.png"> | <img width="200px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_1.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_2.png"> | <img width="200px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_2.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_3.png"> | <img width="200px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_3.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_4.png"> | <img width="200px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_4.png">
 
 Learning about web page development and how to use UI frameworks like Bootstrap 5 can be intimidating and frustrating. However, once you get the hang of it, web page development can be fun and interesting.  
 
