@@ -15,8 +15,7 @@ labels:
 <img width="600px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_2.png"> | <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_2.png">
 <img width="600px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_3.png"> | <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_3.png">
 <img width="600px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_4.png"> | <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_4.png">
-
-Original LINE Friends About Page                                       | Recreation LINE Friends About Page
+Original LINE Friends About Page | Recreation LINE Friends About Page
 
 
 Learning about web page development and how to use UI frameworks like Bootstrap 5 can be intimidating and frustrating. However, once you get the hang of it, web page development can be fun and interesting.  
