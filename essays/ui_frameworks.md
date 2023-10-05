@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "The Web Design Journey"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-4
 published: true
@@ -13,44 +13,16 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+Learning about web page development and how to use UI frameworks like Bootstrap 5 can be intimidating and frustrating. However, once you get the hang of it, web page development can be fun and interesting.  
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## A Love-Hate Relationship
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Utilizing UI frameworks like Bootstrap can make designing web pages significantly easier. Especially for novice web page developers, Bootstrap is a helpful tool that helps you create visually complex, aesthetically pleasing interfaces. Bootstrap has predefined classes that help you incorporate different elements that may be harder to implement on your own with raw HTML and CSS. For example, Bootstrap has a predefined class called “navbar” that allows you to easily create a navigation bar at the top of a web page. Bootstrap also has high-quality icons that are free to use and easy to implement, which can be used to build the navigation bar or other parts of a webpage. In the images above, I used Bootstrap icons for the magnifying glass, heart, shopping bag, and outline of a person. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Although Bootstrap is a helpful tool when learning about web design, it can also be frustrating to use. From a novice’s perspective, as I’ve only been learning how to use Bootstrap for the past week and a half, I still find the framework a bit difficult to use. Although I have an idea of how to implement various elements, I have a hard time remembering the syntax of Bootstrap classes. When building web pages, I often refer back to Bootstrap documentation guides or the source code from previous web pages I built to see how I implemented certain elements like navigation bars or how I styled a button to look a certain way. Bootstrap can also become frustrating to use when a part of my web page doesn’t appear the way I wanted it to look even though I followed the Bootstrap documentation guide and/or source code from a previous project. 
 
-Here's what I think: the difficult things will always be difficult.
+## Making Learning Fun 
 
-## In the context of programming
+Currently in ICS 314, an introduction to software engineering class at my university, I’m learning about UI Design using Bootstrap 5 to create web pages. To get us accustomed to Bootstrap and web development, one of our recent assignments was to recreate a web page of our choice. I chose to recreate the About page from the LINE Friends Official Store website, wanting to learn in a fun way. 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Recreating the About section was fun but challenging. Although I had some knowledge about how to design a web page using Bootstrap from previous introductory assignments, I initially struggled with recreating the web page. I knew what components I needed to recreate the web page but didn’t have a good idea of how to implement said components. For example, I knew I needed to use Bootstrap’s navbar class to create the top menu of my page but wasn’t quite sure how to implement it using code. I had to refer back to previous assignments to figure out how to add the navigation bar and its elements such as the LINE Friends logo and dropdown menus. However, once I got the hang of it, I started to have fun implementing the different parts of my webpage. I enjoyed figuring out how to implement different sections of the About page and watching my web page slowly come together. It was also rewarding to see that my struggles and hard work paid off when I compared my web page with the actual LINE Friends webpage, observing that my web page looked very similar to the real thing. Although I struggled with implementing various features in my recreated web page, the assignment helped me have a better understanding of how to utilize CSS and implement different Bootstrap classes, which helped me design other simpler web pages. 
