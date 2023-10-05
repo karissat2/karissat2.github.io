@@ -4,7 +4,7 @@ type: essay
 title: "The difficult things will always be difficult"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-4
-published: false
+published: true
 labels:
   - UI Design
   - Bootstrap 5
