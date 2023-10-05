@@ -11,7 +11,7 @@ labels:
   - HTML and CSS
 ---
 
-<center>Original                                        | Recreation</center>
+Original                                        | Recreation
 <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_1.png"> | <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_1.png">
 <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_2.png"> | <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_2.png">
 <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_3.png"> | <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_3.png">
