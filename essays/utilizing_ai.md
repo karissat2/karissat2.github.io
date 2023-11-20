@@ -6,7 +6,7 @@ title: "The difficult things will always be difficult"
 date: 2023-11-20
 published: false
 labels:
-  -AI
+  - AI
   - ChatGPT 
   - Software Engineering
   - Reflection
