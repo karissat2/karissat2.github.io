@@ -12,8 +12,6 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 ## Intro
 
 Using AI within an educational setting is often stigmatized. Most educators view AI as a cheating or plagiarizing tool. However, AI can be a helpful tool when one is trying to learn more about a subject and is unable to find helpful resources by his or herself. Utilizing AI as an educational tool is especially helpful in Software Engineering when learning new coding concepts or debugging code, as a simple Google search may not give a simple explanation of a coding concept and cannot help debug code. 
