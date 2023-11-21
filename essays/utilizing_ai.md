@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The AI Age"
+title: "The  Technology Ren-AI-ssance"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-20
 published: true
