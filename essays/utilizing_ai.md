@@ -12,7 +12,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" src="../img/utilizing_ai/modern-mona-lisa.png">
+<img width="400px" src="../img/utilizing_ai/modern-mona-lisa.png">
 
 ## Introduction
 
