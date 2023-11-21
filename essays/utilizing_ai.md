@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Age of AI"
+title: "The AI Age"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-20
 published: true
@@ -12,13 +12,14 @@ labels:
   - Reflection
 ---
 
-## Intro
+## Introduction
 
 Using AI within an educational setting is often stigmatized. Most educators view AI as a cheating or plagiarizing tool. However, AI can be a helpful tool when one is trying to learn more about a subject and is unable to find helpful resources by his or herself. Utilizing AI as an educational tool is especially helpful in Software Engineering when learning new coding concepts or debugging code, as a simple Google search may not give a simple explanation of a coding concept and cannot help debug code. 
 
 In ICS 314, I have used ChatGPT a few times to help debug code or understand how to solve part of a coding problem. 
 
 ## Personal Experience with AI 
+
 
 #### Experience WODs 
 I did not use AI to help with the Experience WODS because I didn’t think it would give useful results. The Experience WODs that incorporated Bootstrap or React seemed extremely specific to the point where I didn’t think AI would give a workable result, as figuring out the problem on my own would’ve most likely taken less time than trying to get a workable result with AI. Instead, I tried to find an answer on my own or ask peers for help. When provided, I also watched the solution video when I got stuck on a certain part of the WOD and passed the suggested DNF (did not finish) time.
