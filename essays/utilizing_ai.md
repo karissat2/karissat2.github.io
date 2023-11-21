@@ -11,9 +11,8 @@ labels:
   - Software Engineering
   - Reflection
 ---
-<p align="center>
-  <img width="800px" src="../img/utilizing_ai/modern-mona-lisa.png">
-</p>
+
+<img width="700px" align="center" src="../img/utilizing_ai/modern-mona-lisa.png">
 
 ## Introduction
 
