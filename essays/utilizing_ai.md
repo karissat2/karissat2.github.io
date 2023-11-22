@@ -73,7 +73,7 @@ I haven’t used AI for other parts of ICS 314 that were not already mentioned. 
 
 ## Impact on Learning and Understanding 
 
-AI has positively influenced my learning experience. ChatGPT has definitely enhanced my understanding of software engineering concepts. When an internet explanation of a concept became too technical for me, I received a simpler, easier-to-understand answer from ChatGPT. Furthermore, if I had questions or confusion about ChatGPT’s explanation, I could ask it to further explain the parts I was confused about. When doing my assignments late at night, asking AI for help with my code was also my next best alternative since I couldn’t ask others for help during this time. For the most part, ChatGPT can provide a helpful solution to a given coding problem or almost any issue in general. However, it’s still not perfect and occasionally does not give helpful or workable solutions. 
+AI software like ChatGPT has positively influenced my learning experience and has definitely enhanced my understanding of software engineering concepts. When an internet explanation of a concept became too technical for me, I received a simpler, easier-to-understand answer from ChatGPT. Furthermore, if I had questions or confusion about ChatGPT’s explanation, I could ask it to further explain the parts I was confused about. When doing my assignments late at night, asking AI for help with my code was also my next best alternative since I couldn’t ask others for help during this time. For the most part, ChatGPT can provide a helpful solution to a given coding problem or almost any issue in general. However, it’s still not perfect and occasionally does not give helpful or workable solutions. 
 
 ## Practical Applications 
 
