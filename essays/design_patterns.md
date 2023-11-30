@@ -10,15 +10,16 @@ labels:
   - Software Engineering
 ---
 
-<p align="center">
+<Row>
   <img width="800px" height = "400px" src="../img/design_patterns/story-arc-diagram.png">
-</p>
   
 Before learning about design patterns, I never realized that there are a general set of solutions that I use to solve common recurring problems. However, after figuring out what exactly a design pattern is in a software engineering context, I recognized that most software engineering solutions are built off of basic design patterns. Outside of software engineering, design pattern concepts can also be applied to other things like storytelling. 
 
 ## The Basic Template
 
 Design patterns are general solutions that can be used to solve common problems. Various design patterns set up a basic solution, simplify the coding process, and maintain the code’s reusability. In a sense, these are templates that can be applied to solve various recurring issues. 
+
+</Row>
 
 
 ## Giving Design Patterns Flavor
