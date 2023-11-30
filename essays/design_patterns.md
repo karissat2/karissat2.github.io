@@ -10,7 +10,9 @@ labels:
   - Software Engineering
 ---
 
-<center><img width="700px" height = "400px" class="rounded float-start pe-4" src="../img/design_patterns/story-arc-diagram.png"></center>
+<p align="center">
+  <img width="700px" height = "400px" class="rounded float-start pe-4" src="../img/design_patterns/story-arc-diagram.png">
+  </p>
 
 Before learning about design patterns, I never realized that there are a general set of solutions that I use to solve common recurring problems. However, after figuring out what exactly a design pattern is in a software engineering context, I recognized that most software engineering solutions are built off of basic design patterns. Outside of software engineering, design pattern concepts can also be applied to other things like storytelling. 
 
