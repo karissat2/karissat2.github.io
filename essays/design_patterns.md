@@ -36,6 +36,6 @@ With a few of my classmates in a software engineering course, I’m working on a
 
 Another example is Manoa Study Abroad Central’s admin home page. When users make a new post, administrators are notified of this change and can review the post to ensure that post follows community guidelines. Additionally, when a study abroad program or post is added to the site, the number of programs or posts are updated and the admin(s) can view data on the admin home page regarding how many programs or posts are added to the website. 
 
-## Closing
+## Conclusion
 
 Although it’s difficult to understand conceptually, software engineering design patterns are useful knowledge. These design patterns offer a basic, reusable solution template that can be used for simple recurring problems. Similar to a story arc, the design pattern templates give coders a base solution to start from, which programmers can then modify to fit the issue’s specific needs and simply the coding process. 
