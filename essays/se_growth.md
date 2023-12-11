@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Connecting Beyond the Tech World"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-11
-published: false
+published: true
 labels:
   - Software Engineering
   - Coding Standards
@@ -14,44 +14,27 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+From the beginning of the fall semester until now, my knowledge of software engineering has grown significantly. Before ICS 314, a software engineering course, software engineering seemed boring because I thought it dealt with writing and debugging high-level programs. However, while some of this is true, ICS 314 has shown me that other aspects of software engineering can be interesting and enjoyable. Moreover, software engineering concepts are not only limited to the computer science world but can also be applied in other unrelated contexts. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## Math and Coding Standards
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+A fundamental software engineering concept that’s helpful and important is coding standards. Coding standards are guidelines used to neatly organize code in a way that’s readable for myself and others who look at my code. With these guidelines, code must be written in a specific way to maintain a certain look that’s easily understood. 
 
-Here's what I think: the difficult things will always be difficult.
+Applying a similar concept to coding standards when solving complex math problems can also be useful. Rather than haphazardly showing work all over the paper, showing work in a step-by-step manner increases the chance of solving the problem correctly and helps when looking back at the work. By neatly organizing my work vertically, I’m able to figure out where I went wrong if my solution is incorrect. Instead of struggling to figure out how I went from one step to the next, I’m able to view my work in a step-by-step format and determine where I miscalculated. Neatly organizing my work can also be helpful when working with others. When comparing answers with a peer and figuring out why my answer differs, showing my work in a cohesive, legible manner helps me and my peer efficiently figure out where either of us made an error. 
 
-## In the context of programming
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## Applying IDPM Anywhere 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+Another fundamental software engineering concept that is helpful within and beyond computer science is agile project management, more specifically issue-driven project management (IDPM). IDPM is a way of organizing and managing work that needs to get done as a group. Groups must meet at least twice a week, discuss new or current project issues, divide up the new issues amongst team members, and share individual progress. 
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+For my ICS 314 group final project, we were assigned to create a website that helps students easily find more information about the different study abroad programs and countries at UH Manoa. Each week at our meetings, we discussed new and current project issues, divided up the new issues among different group members, and shared our progress with our current individual coding issues. 
 
-## In the context of engineering
+Within a different context, IDPM can also be used in other types of group work such as group presentations. Since there may be different points that need to be covered in the presentation, group members can figure out what points need to be discussed during the presentation then divide up the work and assign themselves to research different parts of the main topic. At the end, everyone would put their pieces of knowledge together to hopefully produce a cohesive presentation. 
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+Figuring out what needs to be done first and then assigning each issue to a group member maximizes efficiency. Since everyone has a task they can currently work on and other tasks that can be completed once their current task is finished, time is utilized wisely since no one has to wait for other members to finish before working on another part of the project. 
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+## Final Note
 
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Despite not knowing much about software engineering at the beginning of ICS 314, I now know that software engineering has more to it than just coding. Different elements of software engineering like coding standards and issue-driven project management improve work ethic, efficiency, and can be useful in other situations outside of computer science. 
