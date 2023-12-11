@@ -12,7 +12,7 @@ labels:
   - Reflection
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/se_growth/math-and-coding.jpg">
+<img width="600px" class="rounded float-start pe-4" src="../img/se_growth/math-and-coding.jpg">
 
 From the beginning of the fall semester until now, my knowledge of software engineering has grown significantly. Before ICS 314, a software engineering course, software engineering seemed boring because I thought it dealt with writing and debugging high-level programs. However, while some of this is true, ICS 314 has shown me that other aspects of software engineering can be interesting and enjoyable. Moreover, software engineering concepts are not only limited to the computer science world but can also be applied in other unrelated contexts. 
 
