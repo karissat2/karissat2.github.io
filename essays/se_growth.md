@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Connecting Beyond the Tech World"
+title: "Connections Beyond the Tech World"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-11
 published: true
