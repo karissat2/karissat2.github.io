@@ -13,15 +13,15 @@ labels:
 summary: "I recreated the LINE Friends About Page from scratch using Bootstrap for my ICS 314 software engineering course."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
-
 For my software engineering course ICS 314, I had to recreate a webpage of my choosing using [Bootstrap](https://getbootstrap.com/). At this time, we recently began learning about frameworks and how to use Bootstrap to create web pages. To make learning fun, I chose to recreate the [LINE Friends Store About](https://store.linefriends.com/pages/about-us) page, as I think the LINE Friends characters are fun and cute. I recreated the web page from scratch using Bootstrap’s predefined classes like Navbar and Container as well as [Bootstrap Icons](https://icons.getbootstrap.com/). 
 
 Here is a side-by-side comparison of my recreated page and the real website. 
+
+Original LINE Friends About Page | Recreation LINE Friends About Page
+<img width="600px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_1.png"> | <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_1.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_2.png"> | <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_2.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_3.png"> | <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_3.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_4.png"> | <img width="700px" class="rounded float-start pe-4" src="../img/ui_frameworks/line_friends_recreation_4.png">
 
 At the time of recreating the LINE Friends Store About page, I had a small introduction to Bootstrap before creating the web page. However, recreating a web page of my choice allowed me to have a hands-on learning experience and figure out how to use different Bootstrap features on my own. Although it was difficult to recreate the web page since I was a newbie to Bootstrap, it was also a rewarding experience to learn how to create this specific page from scratch. 
 
