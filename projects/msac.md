@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/msac-final/msac-square.png
 title: "Manoa Study Abroad Central"
-date: 12-2023
+date: 2023
 published: true
 labels:
   - JavaScript
