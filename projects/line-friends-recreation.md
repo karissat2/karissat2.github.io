@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/line-friends/bt21-square.jpg
 title: "LINE Friends"
 date: 2023
 published: false
