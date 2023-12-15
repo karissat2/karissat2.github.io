@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/kpop-swap/kpop-swap-background.jpg
 title: "K-Pop Swap"
-date: 11-2023
+date: 2023
 published: true
 labels:
   - ServiceNow
