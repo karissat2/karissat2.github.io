@@ -4,7 +4,7 @@ type: project
 image: img/line-friends/bt21-square.jpg
 title: "LINE Friends"
 date: 2023
-published: false
+published: true
 labels:
   - UI Design
   - Bootstrap 
