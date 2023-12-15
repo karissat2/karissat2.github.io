@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/kpop-swap/kpop-swap-background.jpg
 title: "K-Pop Swap"
-date: 2023
-published: false
+date: 11-2023
+published: true
 labels:
   - ServiceNow
   - App Workshop
   - CSS
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "During a two-day app workshop, I created a trading card app with a few other students at the ServiceNow AFCEA Hawaii App Engine Workshop."
 ---
 
 <div class="text-center p-4">
