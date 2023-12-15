@@ -41,7 +41,7 @@ On the other hand, if the user selects “Program/Region”, the second drop-dow
 <center><img width="1000px" src="../img/msac-final/program-selection-country.png"></center>
 
 ### MIX Page
-I also created the informational page for the Manoa International Exchange (MIX) program at UH Manoa. The page gives a brief overview of the program followed by a link to the MIX homepage and application at the bottom of the page. 
+I also created the informational page for the Manoa International Exchange (MIX) program at UH Manoa. The page gives a brief overview of the program followed by a link to the MIX homepage and a list of application requirements at the bottom of the page. 
 <center><img width="1000px" src="../img/msac-final/mix-page.png"></center>
 
 
