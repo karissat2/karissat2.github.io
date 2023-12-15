@@ -21,12 +21,21 @@ In order to finish the project in a timely manner, my teammates and I split up v
 # First Week 
 
 For the first week, I started our GitHub organization and ReadMe file. I also created the initial landing page, the first page users view when visiting the website. 
+<img width="500px" src="../img/msac-final/original-landing.png">
 
 # Second Week 
 
-During the second week, I improved the program selection page of our website. On the program selection page, users can search for information about a country or study abroad program. I updated the page so that users could find information about a program or country based on their preference. In the first dropdown menu, users could either select “Program” or “Country/Region”. If the user selects “Program”, the second dropdown menu populates with the different study abroad programs. After selecting a specific program and hitting “Search”, the application takes the user to the respective program’s informational page, though this feature was not yet implemented until week three by a teammate. On the other hand, if the user selects “Program/Region”, the second drop down menu would instead populate with different countries or regions available to study abroad students from UH Manoa. 
+During the second week, I improved the program selection page of our website. On the program selection page, users can search for information about a country or study abroad program. I updated the page so that users could find information about a program or country based on their preference. In the first dropdown menu, users could either select “Program” or “Country/Region”. 
+<img width="500px" src="../img/msac-final/program-selection-orig.png">
+
+If the user selects “Program”, the second dropdown menu populates with the different study abroad programs. After selecting a specific program and hitting “Search”, the application takes the user to the respective program’s informational page, though this feature was not yet implemented until week three by a teammate. 
+<img width="500px" src="../img/msac-final/program-selection-program.png">
+
+On the other hand, if the user selects “Program/Region”, the second drop down menu would instead populate with different countries or regions available to study abroad students from UH Manoa. 
+<img width="500px" src="../img/msac-final/program-selection-country.png">
 
 I also created the informational page for the Manoa International Exchange (MIX) program at UH Manoa. The page gives a brief overview of the program followed by a link to the MIX homepage and application at the bottom of the page. 
+<img width="500px" src="../img/msac-final/mix-page.png">
 
 # Third Week 
 
