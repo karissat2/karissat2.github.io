@@ -16,6 +16,7 @@
   "interests": [
     { "name": "Interactive Media" },
     { "name": "UX/UI Design" },
+     { "name": "Front-end Development" },
     { "name": "Game Development" },
     { "name": "Mobile App Development" },
     { "name": "Filmmaking" }
@@ -23,11 +24,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Bootstrap", "React" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 10", "Microsoft 365", "Eclipse", "Visual Studio Code", "NetBeans", "Ubuntu", "Git/GitHub"]
+      "keywords": [ "Windows 10", "Microsoft 365", "IntelliJ", "ESLint", "Eclipse", "Visual Studio Code", "NetBeans", "Ubuntu", "Git/GitHub"]
     }
   ],
   "education": [
