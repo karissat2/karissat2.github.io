@@ -14,28 +14,25 @@ labels:
 summary: "With four other classmates in my software engineering course, we created a website dedicated to simplifying the process of choosing a study abroad program at our university UH Manoa."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+Manoa Study Abroad Central is an application I developed with a few classmates from ICS 314, a software engineering course. The website’s purpose is to help UH Manoa students find more information about the different study abroad programs at our university. Since the different programs offer various types of experiences and partner with numerous schools and regions, Manoa Study Abroad Central helps students figure out which program is best for them. Our platform includes several features such as adding a post about one’s study abroad experience, reading reviews from previous or current study abroad students, information about the three different study abroad programs, and numerous universities partnered with UH. 
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+In order to finish the project in a timely manner, my teammates and I split up various tasks for three weeks, each of us having at least two tasks to complete for each respective week. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+# First Week 
 
-Here is some code that illustrates how we read values from the line sensors:
+For the first week, I started our GitHub organization and ReadMe file. I also created the initial landing page, the first page users view when visiting the website. 
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+# Second Week 
+
+During the second week, I improved the program selection page of our website. On the program selection page, users can search for information about a country or study abroad program. I updated the page so that users could find information about a program or country based on their preference. In the first dropdown menu, users could either select “Program” or “Country/Region”. If the user selects “Program”, the second dropdown menu populates with the different study abroad programs. After selecting a specific program and hitting “Search”, the application takes the user to the respective program’s informational page, though this feature was not yet implemented until week three by a teammate. On the other hand, if the user selects “Program/Region”, the second drop down menu would instead populate with different countries or regions available to study abroad students from UH Manoa. 
+
+I also created the informational page for the Manoa International Exchange (MIX) program at UH Manoa. The page gives a brief overview of the program followed by a link to the MIX homepage and application at the bottom of the page. 
+
+# Third Week 
+
+For the final week, I was in charge of improving the design of the landing page and subsequent pages available to users. I improved the design of the landing page and user pages using a CSS stylesheet and re-doing the layout of the landing page.
+
+I also created a new homepage that the user is redirected to after logging in to the website, which looks somewhat similar to the landing page and is different from the admin home page. To improve the user pages, I updated the CSS stylesheet so that the pages had continuity where each page would have the same background color, font, font color, and font size. 
+
 
 Visit [Manoa Study Abroad Central](https://manoa-study-abroad-central.xyz/) as well as the [organization and source code](https://github.com/manoa-study-abroad-central) 
