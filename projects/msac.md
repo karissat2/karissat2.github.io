@@ -21,31 +21,31 @@ In order to finish the project in a timely manner, my teammates and I split up v
 # First Week 
 
 For the first week, I started our GitHub organization and ReadMe file. I also created the initial landing page, the first page users view when visiting the website. 
-<img width="500px" src="../img/msac-final/original-landing.png">
+<img width="800px" src="../img/msac-final/original-landing.png">
 
 # Second Week 
 
 During the second week, I improved the program selection page of our website. On the program selection page, users can search for information about a country or study abroad program. I updated the page so that users could find information about a program or country based on their preference. In the first dropdown menu, users could either select “Program” or “Country/Region”. 
-<img width="500px" src="../img/msac-final/program-selection-orig.png">
+<img width="800px" src="../img/msac-final/program-selection-orig.png">
 
 If the user selects “Program”, the second dropdown menu populates with the different study abroad programs. After selecting a specific program and hitting “Search”, the application takes the user to the respective program’s informational page, though this feature was not yet implemented until week three by a teammate. 
-<img width="500px" src="../img/msac-final/program-selection-program.png">
+<img width="800px" src="../img/msac-final/program-selection-program.png">
 
 On the other hand, if the user selects “Program/Region”, the second drop down menu would instead populate with different countries or regions available to study abroad students from UH Manoa. 
-<img width="500px" src="../img/msac-final/program-selection-country.png">
+<img width="800px" src="../img/msac-final/program-selection-country.png">
 
 I also created the informational page for the Manoa International Exchange (MIX) program at UH Manoa. The page gives a brief overview of the program followed by a link to the MIX homepage and application at the bottom of the page. 
-<img width="500px" src="../img/msac-final/mix-page.png">
+<img width="800px" src="../img/msac-final/mix-page.png">
 
 # Third Week 
 
 For the final week, I was in charge of improving the design of the landing page and subsequent pages available to users. I improved the design of the landing page and user pages using a CSS stylesheet and re-doing the layout of the landing page.
-<img width="500px" src="../img/msac-final/landing1.png">
-<img width="500px" src="../img/msac-final/landing2.png">
-<img width="500px" src="../img/msac-final/landing3.png">
+<img width="800px" src="../img/msac-final/landing1.png">
+<img width="800px" src="../img/msac-final/landing2.png">
+<img width="800px" src="../img/msac-final/landing3.png">
 
 I also created a new homepage that the user is redirected to after logging in to the website, which looks somewhat similar to the landing page and is different from the admin home page. To improve the user pages, I updated the CSS stylesheet so that the pages had continuity where each page would have the same background color, font, font color, and font size. 
-<img width="500px" src="../img/msac-final/user-home.png">
+<img width="800px" src="../img/msac-final/user-home.png">
 
 
 Visit [Manoa Study Abroad Central](https://manoa-study-abroad-central.xyz/) as well as the [organization and source code](https://github.com/manoa-study-abroad-central). 
