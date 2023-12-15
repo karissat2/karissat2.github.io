@@ -26,7 +26,9 @@ For the first week, I started our GitHub organization and ReadMe file. I also cr
 
 # Second Week 
 
-During the second week, I improved the program selection page of our website. On the program selection page, users can search for information about a country or study abroad program. I updated the page so that users could find information about a program or country based on their preference. In the first dropdown menu, users could either select “Program” or “Country/Region”. 
+During the second week, I improved the program selection page of our website. On the program selection page, users can search for information about a country or study abroad program. I updated the page so that users could find information about a program or country based on their preference. 
+
+In the first dropdown menu, users could either select “Program” or “Country/Region”. 
 <center><img width="1000px" src="../img/msac-final/program-selection-orig.png"></center>
 
 
