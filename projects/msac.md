@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/msac-final/msac-square.png
 title: "Manoa Study Abroad Central"
 date: 2023
 published: true
@@ -11,7 +11,7 @@ labels:
   - Front-End Development
   - UI Design
   - Study Abroad
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "With four other classmates in my software engineering course, we created a website dedicated to simplifying the process of choosing a study abroad program at our university UH Manoa."
 ---
 
 <div class="text-center p-4">
@@ -38,4 +38,4 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+Visit [Manoa Study Abroad Central](https://manoa-study-abroad-central.xyz/) as well as the [organization and source code](https://github.com/manoa-study-abroad-central) 
