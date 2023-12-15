@@ -19,8 +19,6 @@ For context, [ServiceNow](https://www.servicenow.com/company.html) is a cloud-ba
 The Hawaii App Engine Workshop hosted by ServiceNow was a two-day workshop meant for high school and university students to learn more about ServiceNow’s digital platform and their Creator Workflows. ServiceNow’s Creative Workflows consist of tools designed to build apps without code, allowing anyone to become a software developer regardless of IT background or coding knowledge.
 
 On the first day, a mentor from ServiceNow taught us the basics of how to use their platform. However, on the second day, we created an app of our own choice in groups of three to four along with a team leader/mentor who works at ServiceNow. My team created a K-pop trading card app called "K-Pop Swap". 
-
-<img width="500px" src="../img/kpop-swap/home-page.jpeg">
  
 ## Context on The World of K-pop 
 
@@ -29,9 +27,10 @@ In the world of K-pop, fans often buy physical albums of the groups they like. A
 Since there is no official platform to trade said type of cards, our group wanted to create an app where traders can safely trade their photocards with other fans. On K-Pop Swap, traders can post what type of photocard they have and are looking for. Fans can also view what photocards are up for trade and can request to trade with another fan. Moreover, while browsing through the photocards, fans can also view tweets from different groups, as the data is pulled from X/Twitter. 
 
 Here is a hand-drawn blueprint of how we planned on creating the app. 
-<img width="500px" src="../img/kpop-swap/plan.jpeg">
+<center><img width="700px" src="../img/kpop-swap/plan.jpeg"></center>
 
 ## K-Pop Swap
+<center><img width="500px" src="../img/kpop-swap/home-page.jpeg"></center>
 
 In my team, I came up with the name “K-Pop Swap” for our app. I also started the workflow we used to create the app. Furthermore, I designed the banner background on the home page, which I also use as my laptop background. Moreover, we had a few images of different photocards posted on the home page. However, the photocard images were horizontally distorted. The names of each respective photocard were meant to appear next to the photocard image; however, the text format was also distorted, as the text would appear next and under the image if the photocard had a long name. To fix the distortions, I resized the photocard images by manually editing the CSS stylesheet, as we were having trouble resizing the images using the Creator Workflows tools. Additionally, I helped populate data in the app by adding images and descriptions of different photocards. The description included information such as what K-pop group the photocard is from, who it is, what album the photocard is from, and the photocard version, as there are multiple photocard versions of the same group member. 
 
