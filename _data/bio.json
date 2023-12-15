@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Karissa Tabadero",
+    "label": "Student",
+    "picture": "https://github.com/karissat2.png",
+    "email": "karissat@hawaii.edu",
+    "phone": "",
+    "website": "https://karissat2.github.io",
+    "summary": "I am a B.S. Computer Science Student in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "karissat2", "url": "http://github.com/karissat2" },
+      { "network": "linkedin", "username": "Karissa Tabadero", "url": "http:/linkedin.com/in/karissa-tabadero-30513028a" }
+    ]
+  },
+  "interests": [
+    { "name": "Interactive Media" },
+    { "name": "UX/UI Design" },
+     { "name": "Front-end Development" },
+    { "name": "Game Development" },
+    { "name": "Mobile App Development" },
+    { "name": "Filmmaking" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Bootstrap", "React" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows 10", "Microsoft 365", "IntelliJ", "ESLint", "Eclipse", "Visual Studio Code", "NetBeans", "Ubuntu", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Department of Mathematics",
+      "position": "MATH 215 Learning Assistant",
+      "website": "",
+      "startDate": "2022-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+       "Assist MATH 215 (Applied Calculus I) students with weekly recitation worksheets",
+        "Offer help sessions to students outside of class time to review course material"
+      ]
+    },
+    {
+      "company": "UH Manoa Department of Mathematics",
+      "position": "MATH 241 Learning Assistant",
+      "website": "",
+      "startDate": "2022-01",
+      "endDate": "2022-05",
+      "summary": "",
+      "highlights": [
+        "Assist MATH 241 (Calculus I) students with weekly recitation worksheets",
+        "Offer help sessions to students outside of class time to review course material"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Manoa Dean's List",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to undergraduate students who earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade and did not receive grades W, I, F, or NC for that semester."
+    },
+    {
+      "title": "Mānoa Academic Merit Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "An automatic $4,000 scholarship per year for four years of undergraduate study for first time degree-seeking students. Students must have a 3.8 high school GPA upon the time of application to UH Manoa."
+    },
+    {
+      "title": "Pearl Harbor Rotary Club Scholarship",
+      "date": "2021",
+      "awarder": "Pearl Harbor Rotary Club",
+      "summary": "Scholarship awarded to applicants of the Hawaii Rotary Youth Foundation Scholarship Program from the Pearl Harbor Rotary Club."
+    },
+    {
+      "title": "Stacie and Julie Lee Scholarship",
+      "date": "2021",
+      "awarder": "Hawaii Baptist Academy",
+      "summary": "The Stacie and Julie Lee Scholarship was established in gratitude to HBA and the Efurd family, wanting to help defray the cost of college tuition. During Stacie’s senior year, she received the Reverend O.W. “Dub” Efurd Memorial Scholarship. Both Stacie and her mother, Julie, were moved by the Efurd family’s generosity, becoming inspired to establish their own senior scholarship to bless others just as they had been blessed."
+    },
+    {
+      "title": "Outstanding Interact Volunteer Service Award",
+      "date": "2019",
+      "awarder": "Hawaii Baptist Academy Interact Club",
+      "summary": "Awarded for having the most community service hours during the fall semester."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
