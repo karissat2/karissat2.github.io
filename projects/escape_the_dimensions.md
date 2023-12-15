@@ -4,7 +4,7 @@ type: project
 image: img/ETD_start_square.png
 title: "Escape the Dimensions"
 date: 2021
-published: true
+published: false
 labels:
   - Game Development
   - JavaScript
