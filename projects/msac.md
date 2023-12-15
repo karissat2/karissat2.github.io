@@ -1,4 +1,3 @@
-![image](https://github.com/karissat2/karissat2.github.io/assets/143388266/29bc544c-ed24-4705-83e3-b8ac78232aaf)---
 layout: project
 type: project
 image: img/msac-final/msac-square.png
