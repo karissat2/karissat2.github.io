@@ -18,22 +18,30 @@ summary: "I created a trading card app with a few other students at the two day 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+At the beginning of November, I attended the ServiceNow AFCEA Hawaii App Engine Workshop. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For context, [ServiceNow](https://www.servicenow.com/company.html) is a cloud-based software platform designed to help enterprise companies manage digital workflows. They set up systems that manage, automate, and structure IT services for organizations. 
 
-Here is some code that illustrates how we read values from the line sensors:
+The Hawaii App Engine Workshop hosted by ServiceNow was a two-day workshop meant for high school and university students to learn more about ServiceNow’s digital platform and their Creator Workflows. ServiceNow’s Creative Workflows consist of tools designed to build apps without code, allowing anyone to become a software developer regardless of IT background or coding knowledge.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+On the first day, a mentor from ServiceNow taught us the basics of how to use their platform. However, on the second day, we created an app of our own choice in groups of three to four along with a team leader/mentor who works at ServiceNow. My team created a K-pop trading card app called "K-Pop Swap". 
+ 
+## Context on The World of K-pop 
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+In the world of K-pop, fans often buy physical albums of the groups they like. Although streaming music has become the norm, fans buy physical albums because each album comes with various inclusions such as postcard images of the group or a member of the group, stickers, posters, and most importantly a photocard(s) of a specific member (see image below for an example). 
+<img src="../img/kpop-swap/
+However, the photocard inclusion is special because it is random and buyers don’t know who’s photocard they’ll get. Moreover, fans usually have a favorite member, known as a “bias”, and always hope to get the photocard of the member they like. However, fans aren’t always lucky and don’t get their bias’s photocard. As a result, people attempt to trade their photocards online through social media with other fans, similar to trading Pokemon cards. 
+
+Since there is no official platform to trade said type of cards, our group wanted to create an app where traders can safely trade their photocards with other fans. On K-Pop Swap, traders can post what type of photocard they have and are looking for. Fans can also view what photocards are up for trade and can request to trade with another fan. Moreover, while browsing through the photocards, fans can also view tweets from different groups, as the data is pulled from X/Twitter. 
+
+## K-Pop Swap
+
+In my team, I came up with the name “K-Pop Swap” for our app. I also started the workflow we used to create the app. Furthermore, I designed the banner background on the home page, which I also use as my laptop background. Moreover, we had a few images of different photocards posted on the home page. However, the photocard images were horizontally distorted. The names of each respective photocard were meant to appear next to the photocard image; however, the text format was also distorted, as the text would appear next and under the image if the photocard had a long name. To fix the distortions, I resized the photocard images by manually editing the CSS stylesheet, as we were having trouble resizing the images using the Creator Workflows tools. Additionally, I helped populate data in the app by adding images and descriptions of different photocards. The description included information such as what K-pop group the photocard is from, who it is, what album the photocard is from, and the photocard version, as there are multiple photocard versions of the same group member. 
+
+At the end of the workshop, each team presented their project. After the presentations, students would vote via Kahoot on which group’s app was the best. Due to the complexity and aesthetic appeal of our app, our team was voted the best app by our peers. 
+
+## A Learning Experience 
+
+This workshop provided me with hands-on experience in creating an app with little to no coding. As I’m interested in low-code app development, I learned how these types of software work and how it is used in the real world. Furthermore, this was also a great opportunity to meet other students with similar interests or aspirations and learn more about the low-coding world through ServiceNow developers. 
+
+Unfortunately, my team leader hasn't sent the saved project yet, so I don't have a link to it but will post a link to it once I receive it. 
