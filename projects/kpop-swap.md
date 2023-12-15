@@ -9,7 +9,7 @@ labels:
   - ServiceNow
   - App Workshop
   - CSS
-summary: "During a two-day app workshop, I created a trading card app with a few other students at the ServiceNow AFCEA Hawaii App Engine Workshop."
+summary: "I created a trading card app with a few other students at the two day ServiceNow AFCEA Hawaii App Engine Workshop."
 ---
 
 <div class="text-center p-4">
