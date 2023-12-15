@@ -30,7 +30,7 @@ Here is a hand-drawn blueprint of how we planned on creating the app.
 <center><img width="700px" src="../img/kpop-swap/plan.jpeg"></center>
 
 ## K-Pop Swap
-<center><img width="500px" src="../img/kpop-swap/home-page.jpeg"></center>
+<center><img width="700px" src="../img/kpop-swap/home-page.jpeg"></center>
 
 In my team, I came up with the name “K-Pop Swap” for our app. I also started the workflow we used to create the app. Furthermore, I designed the banner background on the home page, which I also use as my laptop background. Moreover, we had a few images of different photocards posted on the home page. However, the photocard images were horizontally distorted. The names of each respective photocard were meant to appear next to the photocard image; however, the text format was also distorted, as the text would appear next and under the image if the photocard had a long name. To fix the distortions, I resized the photocard images by manually editing the CSS stylesheet, as we were having trouble resizing the images using the Creator Workflows tools. Additionally, I helped populate data in the app by adding images and descriptions of different photocards. The description included information such as what K-pop group the photocard is from, who it is, what album the photocard is from, and the photocard version, as there are multiple photocard versions of the same group member. 
 
