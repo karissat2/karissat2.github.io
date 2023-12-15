@@ -58,7 +58,9 @@ I improved the design of the landing page and user pages using a CSS stylesheet 
 
 ### New Home Page
 I also created a new homepage that the user is redirected to after logging in to the website, which looks somewhat similar to the landing page and is different from the admin home page. To improve the user pages, I updated the CSS stylesheet so that the pages had continuity where each page would have the same background color, font, font color, and font size. 
-<center><img width="1000px" src="../img/msac-final/user-home.png"></center>
+<center><img width="1000px" src="../img/msac-final/user-home.png">
+<img width="1000px" src="../img/msac-final/user-home2.png">
+</center>
 
 # Learning Outcomes
 
