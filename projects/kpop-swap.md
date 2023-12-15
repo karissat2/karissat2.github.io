@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kpop-swap/kpop-swap-background.jpg
+image: img/kpop-swap/kpop-swap-square.png
 title: "K-Pop Swap"
 date: 2023
 published: true
