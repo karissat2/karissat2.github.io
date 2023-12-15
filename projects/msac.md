@@ -37,7 +37,7 @@ If the user selects “Program”, the second dropdown menu populates with the d
 <center><img width="1000px" src="../img/msac-final/program-selection-program.png"></center>
 
 
-On the other hand, if the user selects “Program/Region”, the second drop-down menu would instead populate with different countries or regions available to study abroad students from UH Manoa. 
+On the other hand, if the user selects “Country/Region”, the second drop-down menu would instead populate with different countries or regions available to study abroad students from UH Manoa. 
 <center><img width="1000px" src="../img/msac-final/program-selection-country.png"></center>
 
 ### MIX Page
