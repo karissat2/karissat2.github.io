@@ -31,12 +31,12 @@ I also created the informational page for the Manoa International Exchange (MIX)
 # Third Week 
 
 For the final week, I was in charge of improving the design of the landing page and subsequent pages available to users. I improved the design of the landing page and user pages using a CSS stylesheet and re-doing the layout of the landing page.
-<img src="../img/msac-final/landing1.png">
-<img src="../img/msac-final/landing2.png">
-<img src="../img/msac-final/landing3.png">
+<img width="500px" src="../img/msac-final/landing1.png">
+<img width="500px" src="../img/msac-final/landing2.png">
+<img width="500px" src="../img/msac-final/landing3.png">
 
 I also created a new homepage that the user is redirected to after logging in to the website, which looks somewhat similar to the landing page and is different from the admin home page. To improve the user pages, I updated the CSS stylesheet so that the pages had continuity where each page would have the same background color, font, font color, and font size. 
-<img src="../img/msac-final/user-home.png">
+<img width="500px" src="../img/msac-final/user-home.png">
 
 
-Visit [Manoa Study Abroad Central](https://manoa-study-abroad-central.xyz/) as well as the [organization and source code](https://github.com/manoa-study-abroad-central) 
+Visit [Manoa Study Abroad Central](https://manoa-study-abroad-central.xyz/) as well as the [organization and source code](https://github.com/manoa-study-abroad-central). 
