@@ -12,7 +12,7 @@ labels:
 ---
 
 <p align="center">
-  <img width="400px" align="center" src="../img/essays/collaboration-ics414.jpg.png">
+    <img width="425px" align="center" src="../img/essays/collaboration-ics414.jpg">
 </p>
 Freepik. Software Development Collaboration, 2018, www.freepik.com/free-vector/web-design-concept-with-flat-style_2488324.htm#fromView=search&page=1&position=47&uuid=de68a447-92e0-4cbf-a08f-b8f21197599f&query=collaboration+computer+science+cartoon.
 
