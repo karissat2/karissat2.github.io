@@ -14,7 +14,13 @@ labels:
 <p align="center">
     <img width="425px" align="center" src="../img/essays/collaboration-ics414.jpg">
 </p>
-Freepik. Software Development Collaboration, 2018, www.freepik.com/free-vector/web-design-concept-with-flat-style_2488324.htm#fromView=search&page=1&position=47&uuid=de68a447-92e0-4cbf-a08f-b8f21197599f&query=collaboration+computer+science+cartoon.
+<p>
+  Image source: 
+  <a href="https://www.freepik.com/free-vector/web-design-concept-with-flat-style_2488324.htm" target="_blank" rel="noopener">
+    Freepik, "Software Development Collaboration", 2018
+  </a>.
+</p>
+
 
 ICS 414, Software Engineering II, was both challenging and rewarding, offering a realistic glimpse into what it’s like to build a real-world application for an actual client. Unlike ICS 314, Software Engineering I, where we mostly worked on practice projects, ICS 414 gave me a valuable opportunity to work with a real customer—Spire Hawaii, a consulting and CPA firm. Spire Hawaii wanted us to create an app that could transform Excel spreadsheets into dynamic, user-friendly interfaces. They wanted a platform where they could input various financial data and visualize the data in an interactive way rather than working with static Excel sheets. This project exposed me to new learning experiences and taught me how to build and maintain a client-developer relationship.
 
