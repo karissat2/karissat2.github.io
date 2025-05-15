@@ -14,7 +14,7 @@ labels:
 <p align="center">
     <img width="425px" align="center" src="../img/essays/collaboration-ics414.jpg">
 </p>
-<p>
+<p align="center">
   Image source: 
   <a href="https://www.freepik.com/free-vector/web-design-concept-with-flat-style_2488324.htm" target="_blank" rel="noopener">
     Freepik, "Software Development Collaboration", 2018
