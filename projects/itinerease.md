@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: img/kpop-swap/kpop-swap-background-square.jpg
-title: "K-Pop Swap"
-date: 2023
+title: "ItinerEase"
+date: 2026
 published: true
 labels:
-  - ServiceNow
-  - App Workshop
-  - CSS
-summary: "I created a trading card app with a few other students at the two day ServiceNow AFCEA Hawaii App Engine Workshop."
+  - UX/UI Design
+  - Figma
+summary: "Conceptualized and created a high fidelity mockup of a multifunctional travel planning app."
 ---
 
 At the beginning of November, I attended the ServiceNow AFCEA Hawaii App Engine Workshop. 
