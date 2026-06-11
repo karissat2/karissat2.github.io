@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/kpop-swap/kpop-swap-background-square.jpg
-title: "K-Pop Swap"
+title: "Threat Assessment"
 date: 2023
 published: true
 labels:
