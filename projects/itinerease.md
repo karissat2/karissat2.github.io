@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kpop-swap/kpop-swap-background-square.jpg
+image: img/itinerease_banner.png
 title: "ItinerEase"
 date: 2025
 published: true
