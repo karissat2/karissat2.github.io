@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/itinerease_banner.png
+image: img/itinerease_banner_cropped.png
 title: "ItinerEase"
 date: 2025
 published: true
