@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/kpop-swap/kpop-swap-background-square.jpg
 title: "ItinerEase"
-date: 2026
+date: 2025
 published: true
 labels:
   - UX/UI Design
@@ -11,32 +11,12 @@ labels:
 summary: "Conceptualized and created a high fidelity mockup of a multifunctional travel planning app."
 ---
 
-At the beginning of November, I attended the ServiceNow AFCEA Hawaii App Engine Workshop. 
+## Overview 
 
-For context, [ServiceNow](https://www.servicenow.com/company.html) is a cloud-based software platform designed to help enterprise companies manage digital workflows. They set up systems that manage, automate, and structure IT services for organizations. 
+ItinerEase is a mobile app built to help travelers plan and organize every aspect of their journey easily and confidently. Based on interviews with fellow classmates on their traveling experiences, the following situations were cited as the most common difficulties they faced: disorganized planning, difficulty finding reliable options, struggles with budgeting, struggling to find local, authentic experiences, navigation and offline access to key information, group travel coordination, and safety and backup plans. 
 
-The Hawaii App Engine Workshop hosted by ServiceNow was a two-day workshop meant for high school and university students to learn more about ServiceNow’s digital platform and their Creator Workflows. ServiceNow’s Creative Workflows consist of tools designed to build apps without code, allowing anyone to become a software developer regardless of IT background or coding knowledge.
+In order to solve these problems, IntinerEase offered four key features: budgeting tools, itinerary planning, destination exploration, and favorites lists. 
 
-On the first day, a mentor from ServiceNow taught us the basics of how to use their platform. However, on the second day, we created an app of our own choice in groups of three to four along with a team leader/mentor who works at ServiceNow. My team created a K-pop trading card app called "K-Pop Swap". 
- 
-## Context on The World of K-pop 
+In this project, I pitched the idea of a travel planning app due to my love of travel and wishing that there was an app that encompassed everything needed to plan a trip. I also helped design the wire frames and high-fidelity mockups of the app's home and itinerary pages. 
 
-In the world of K-pop, fans often buy physical albums of the groups they like. Although streaming music has become the norm, fans buy physical albums because each album comes with various inclusions such as postcard images of the group or a member of the group, stickers, posters, and most importantly a photocard(s) of a specific member. However, the photocard inclusion is special because it is random and buyers don’t know who’s photocard they’ll get. Moreover, fans usually have a favorite member, known as a “bias”, and always hope to get the photocard of the member they like. However, fans aren’t always lucky and don’t get their bias’s photocard. As a result, people attempt to trade their photocards online through social media with other fans, similar to trading Pokemon cards. 
-
-Since there is no official platform to trade said type of cards, our group wanted to create an app where traders can safely trade their photocards with other fans. On K-Pop Swap, traders can post what type of photocard they have and are looking for. Fans can also view what photocards are up for trade and can request to trade with another fan. Moreover, while browsing through the photocards, fans can also view tweets from different groups, as the data is pulled from X/Twitter. 
-
-Here is a hand-drawn blueprint of how we planned on creating the app. 
-<center><img width="700px" src="../img/kpop-swap/plan.jpeg"></center>
-
-## K-Pop Swap
-<center><img width="700px" src="../img/kpop-swap/home-page.jpeg"></center>
-
-In my team, I came up with the name “K-Pop Swap” and started the workflow we used to create the app. I also designed the banner background on the home page, which I also use as my laptop background. Furthermore, we had a few images of different photocards posted on the home page. However, the photocard images were horizontally distorted. The names of each respective photocard were meant to appear next to the photocard image; however, the text format was also distorted, as the text would appear next and under the image if the photocard had a long name. To fix the distortions, I resized the photocard images by manually editing the CSS stylesheet, as we were having trouble resizing the images using the Creator Workflows tools. Additionally, I helped populate data in the app by adding images and descriptions of different photocards. The description included information such as what K-pop group the photocard is from, who it is, what album the photocard is from, and the photocard version, as there are multiple photocard versions of the same group member. 
-
-At the end of the workshop, each team presented their project. After the presentations, students would vote via Kahoot on which group’s app was the best. Due to the complexity and aesthetic appeal of our app, our team was voted the best app by our peers. 
-
-## A Learning Experience 
-
-This workshop provided me with hands-on experience in creating an app with little to no coding. As I’m interested in low-code app development, I learned how these types of software work and how it is used in the real world. Furthermore, this was also a great opportunity to meet other students with similar interests or aspirations and learn more about the low-coding world through ServiceNow developers. 
-
-Unfortunately, my team leader hasn't sent the saved project yet, so I don't have a link to it but will post a link to it once I receive it. 
+## Home Page
