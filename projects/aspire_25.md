@@ -8,16 +8,12 @@ published: true
 labels:
   - Software Engineering
   - App Development
+  - Next.js
 summary: "Collaborated with classmates to transition Spire Hawaii's Fiscal Sustainability Model from a complex, Excel-based tool into a web-based platform."
 ---
 
-At the beginning of November, I attended the ServiceNow AFCEA Hawaii App Engine Workshop. 
-
-For context, [ServiceNow](https://www.servicenow.com/company.html) is a cloud-based software platform designed to help enterprise companies manage digital workflows. They set up systems that manage, automate, and structure IT services for organizations. 
-
-The Hawaii App Engine Workshop hosted by ServiceNow was a two-day workshop meant for high school and university students to learn more about ServiceNow’s digital platform and their Creator Workflows. ServiceNow’s Creative Workflows consist of tools designed to build apps without code, allowing anyone to become a software developer regardless of IT background or coding knowledge.
-
-On the first day, a mentor from ServiceNow taught us the basics of how to use their platform. However, on the second day, we created an app of our own choice in groups of three to four along with a team leader/mentor who works at ServiceNow. My team created a K-pop trading card app called "K-Pop Swap". 
+## Overview 
+Aspire-25 was a team-based project that aimed to develop a web application for Spire Hawaii, a Honolulu-based CPA firm. Our app transitioned Spire's Fiscal Sustainability Model (FSM) from a complex Excel-based tool into a user-friendly web platform, improving functionality and usability for financial forecasting. 
  
 ## Context on The World of K-pop 
 
