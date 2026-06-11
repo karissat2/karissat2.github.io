@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: img/kpop-swap/kpop-swap-background-square.jpg
+//image: img/kpop-swap/kpop-swap-background-square.jpg
 title: "Threat Assessment"
-date: 2023
+date: 2026
 published: true
 labels:
-  - ServiceNow
-  - App Workshop
-  - CSS
-summary: "I created a trading card app with a few other students at the two day ServiceNow AFCEA Hawaii App Engine Workshop."
+  - Capstone Project
+  - Python
+  - Software Engineering
+summary: "Partnered with a classmate and UH Manoa faculty sponsor to create a desktop app that analyzes Excel-based threat assessments from the IUCN Red List."
 ---
 
 At the beginning of November, I attended the ServiceNow AFCEA Hawaii App Engine Workshop. 
