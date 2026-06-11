@@ -3,8 +3,8 @@ layout: project
 type: project
 //image: img/kpop-swap/kpop-swap-background-square.jpg
 title: "Threat Assessment"
-date: 2026
-published: true
+date: 2025
+published: false
 labels:
   - Capstone Project
   - Python
