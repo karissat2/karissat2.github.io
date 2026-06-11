@@ -20,3 +20,4 @@ In order to solve these problems, IntinerEase offered four key features: budgeti
 In this project, I pitched the idea of a travel planning app due to my love of travel and wishing that there was an app that encompassed everything needed to plan a trip. I also helped design the wire frames and high-fidelity mockups of the app's home and itinerary pages. 
 
 ## Home Page
+<center><img width="700px" src="../img/itinerease/plan.jpeg"></center>
