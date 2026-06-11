@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/kpop-swap/kpop-swap-background-square.jpg
 title: "Aspire-25"
-date: 2026
+date: 2025
 published: false
 labels:
   - Software Engineering
