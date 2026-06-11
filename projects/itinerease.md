@@ -38,3 +38,5 @@ Users can also delete an event from their itinerary calendar by tapping the even
 ## Future Expansions 
 
 With more time alloted, we wanted to display recent searches and suggestions, give users the ability to book their travel and lodging accomodations, expand cultural ettiquette tips, have the option to create an AI-generated itinerary template that could be used as a base if travelers are unsure of where to start in their planning phase, and include a live and offline map function that would allow users to view their travel route live and offline. 
+
+View the [Project Requirement Document](https://docs.google.com/document/d/19NFUBMDWor48_GyytEXFi6U-8g-63cwMYUC0l2U-bKA/edit?usp=sharing). 
