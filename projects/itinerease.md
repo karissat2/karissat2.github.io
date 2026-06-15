@@ -68,4 +68,4 @@ Future versions of ItinerEase could expand the user's travel planning experience
 * Expanded cultural etiquette tips 
 * Optional AI-generated itinerary templates for travelers seeking planning assistance 
 
-View the [Figma Live Demo](https://www.figma.com/proto/9UGj3FXVvC7bISWQTZCKkZ/ItinerEase?node-id=71-1424&starting-point-node-id=71%3A1424) and the [Project Requirement Document](https://docs.google.com/document/d/19NFUBMDWor48_GyytEXFi6U-8g-63cwMYUC0l2U-bKA/edit?usp=sharing). 
+View the [Live Figma Demo](https://www.figma.com/proto/9UGj3FXVvC7bISWQTZCKkZ/ItinerEase?node-id=71-1424&starting-point-node-id=71%3A1424) and the [Project Requirement Document](https://docs.google.com/document/d/19NFUBMDWor48_GyytEXFi6U-8g-63cwMYUC0l2U-bKA/edit?usp=sharing). 
