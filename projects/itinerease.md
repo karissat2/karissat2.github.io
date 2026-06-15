@@ -31,10 +31,12 @@ I proposed the idea for ItinerEase based on my passion for travel and the desire
     <p><strong>Goal: </strong>Provide travelers with a brief overview of their upcoming trip.</p>
     <p><strong>Design Solution: </strong>Provide travelers with a brief overview of their upcoming trip, helping users quickly access key information before and during the trip.</p>
     <p><strong>Key Elements:</strong> 
+    <ul>
       <li>Countdown timer to build anticipation and track departure</li> 
       <li>Daily itinerary highlight for quick reference</li>
       <li>Saved destinations for trip inspiration and access</li>
     </p>
+    </ul>
   </div>
   <center><img src="../img/itinerease_home_mockup.png" width="300px"></center>
 
