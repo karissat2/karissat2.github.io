@@ -11,10 +11,10 @@ labels:
 summary: "Conceptualized and created a high fidelity mockup of a multifunctional travel planning app."
 ---
 
-* Role: UX/UI Designer (Team of 3)
-* Duration: 1 semester/16 weeks 
-* Tools: Figma, Notability, Google Docs 
-* Responsibilities: Pitched multifunctional travel planning app, conducted user interviews, designed wireframes and high-fidelity mockups, developed home and itinerary pages. 
+<li><strong>Role: </strong>UX/UI Designer (Team of 3)
+<strong>Duration: </strong>1 semester/16 weeks 
+<strong>Tools: </strong>Figma, Notability, Google Docs 
+<strong>Responsibilities: </strong>Pitched multifunctional travel planning app, conducted user interviews, designed wireframes and high-fidelity mockups, developed home and itinerary pages. </li>
 
 ## Overview 
 
