@@ -30,10 +30,15 @@ I proposed the idea for ItinerEase based on my passion for travel and the desire
   <img src="../img/itinerease_home_mockup.png" width="300px">
   <div>
     <p>The home page provides users with an overview of their upcoming trip, including a countdown, upcoming activities based on the itinerary, and quick access to saved destinations.</p>
-    <p><strong>Goal:</strong> Provide travelers with a brief overview of their upcoming trip.</p>
-    <p><strong>Key Elements:</strong> Trip countdown, upcoming activities, and saved destinations.</p>
+    <p><strong>Issue: </strong>Travelers often need to visit different pages to find trip information.</p>
+    <p><strong>Goal: </strong>Provide travelers with a brief overview of their upcoming trip.</p>
+    <p><strong>Design Solution: </strong>Provide travelers with a brief overview of their upcoming trip, helping users quickly access key information before and during the trip.</p>
+    <p><strong>Key Elements:</strong> 
+      <li>Countdown timer to build anticipation and track departure</li> 
+      <li>Daily itinerary highlight for quick reference</li>
+      <li>Saved destinations for trip inspiration and access</li>
+    </p>
   </div>
-
 </div>
 <br>
 
@@ -55,7 +60,5 @@ Future versions of ItinerEase could expand the user's travel planning experience
 * Live and offline maps for navigation 
 * Expanded cultural etiquette tips 
 * Optional AI-generated itinerary templates for travelers seeking planning assistance 
-
-With more time alloted, we wanted to display recent searches and suggestions, give users the ability to book their travel and lodging accomodations, expand cultural ettiquette tips, have the option to create an AI-generated itinerary template that could be used as a base if travelers are unsure of where to start in their planning phase, and include a live and offline map function that would allow users to view their travel route live and offline. 
 
 View the [Figma Live Demo](https://www.figma.com/proto/9UGj3FXVvC7bISWQTZCKkZ/ItinerEase?node-id=71-1424&starting-point-node-id=71%3A1424) and the [Project Requirement Document](https://docs.google.com/document/d/19NFUBMDWor48_GyytEXFi6U-8g-63cwMYUC0l2U-bKA/edit?usp=sharing). 
