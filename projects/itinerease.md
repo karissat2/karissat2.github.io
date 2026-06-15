@@ -47,7 +47,7 @@ The itinerary page allows users to view and manage their daily schedule, budget,
 <div>
   <p><strong>Issue:</strong> Travelers need a centralized way to manage schedules, budgets, and trip costs.</p>
   <p><strong>Goal:</strong> Provide an organized view of daily plans and overall trip expenses.</p>
-  <p><strong>Design Solution:</strong> Create an itinerary dashboard where users can view their daily schedule, track spending, and manage trip activities efficiently.</p>
+  <p><strong>Design Solution:</strong> Create an itinerary calendar where users can view their daily schedule, track spending, and manage trip activities efficiently.</p>
 
   <p><strong>Key Elements:</strong></p>
   <ul>
