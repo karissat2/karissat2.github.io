@@ -57,9 +57,9 @@ The itinerary page allows users to view and manage their daily schedule, budget,
   </ul>
 </div>
 
-<div style="margin-top: 20px;">
+<center><div style="margin-top: 20px;">
   <img src="../img/itinerary_mockup.png" width="300px">
-</div>
+</div></center>
 
 ## Future Expansions 
 Future versions of ItinerEase could expand the user's travel planning experience by incorporating these features: 
