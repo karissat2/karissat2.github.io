@@ -25,72 +25,16 @@ In order to solve these problems, IntinerEase offered four key features: budgeti
 I proposed the idea for ItinerEase based on my passion for travel and the desire for a single platform that simplifies the entire planning process. As part of the design team, I conducted user research and designed the wireframes and high-fidelity mockups for the home and itinerary pages.
 
 ## Home Page
-
-<div style="display: flex; gap: 30px; align-items: flex-start;">
-
-  <!-- Phone Mockup -->
-  <img src="../img/itinerease_home_mockup.png"
-       width="320px"
-       alt="ItinerEase Home Page">
-
-  <!-- Content -->
-  <div style="flex: 1;">
-
-    <p>
-      The home page provides users with an overview of their upcoming trip,
-      including a countdown, itinerary highlights, and quick access to saved destinations.
+    <p>The home page provides users with an overview of their upcoming trip, including a countdown, upcoming activities based on the itinerary, and quick access to saved destinations.</p>
+    <p><strong>Issue: </strong>Travelers often need to visit different pages to find trip information.</p>
+    <p><strong>Goal: </strong>Provide travelers with a brief overview of their upcoming trip.</p>
+    <p><strong>Design Solution: </strong>Provide travelers with a brief overview of their upcoming trip, helping users quickly access key information before and during the trip.</p>
+    <p><strong>Key Elements:</strong> 
+      <li>Countdown timer to build anticipation and track departure</li> 
+      <li>Daily itinerary highlight for quick reference</li>
+      <li>Saved destinations for trip inspiration and access</li>
     </p>
-
-    <!-- Top Row -->
-    <div style="display: flex; gap: 15px; margin-top: 20px;">
-
-      <div style="flex: 1; padding: 15px; border: 1px solid #ddd;
-                  border-radius: 10px;">
-        <strong>Problem</strong><br>
-        Travelers often need to navigate multiple screens to find essential trip information.
-      </div>
-
-      <div style="flex: 1; padding: 15px; border: 1px solid #ddd;
-                  border-radius: 10px;">
-        <strong>Goal</strong><br>
-        Provide travelers with a quick overview of their upcoming trip.
-      </div>
-
-    </div>
-
-    <!-- Design Solution -->
-    <div style="margin-top: 15px;
-                padding: 15px;
-                border: 1px solid #ddd;
-                border-radius: 10px;">
-
-      <strong>Design Solution</strong><br>
-
-      Consolidate time-sensitive information into a single dashboard,
-      allowing users to quickly access what matters most before and during their trip.
-
-    </div>
-
-    <!-- Key Features -->
-    <div style="margin-top: 15px;
-                padding: 15px;
-                border: 1px solid #ddd;
-                border-radius: 10px;">
-
-      <strong>Key Features</strong>
-
-      <ul>
-        <li>Countdown timer to build anticipation and track departure</li>
-        <li>Daily itinerary highlight for quick reference</li>
-        <li>Saved destinations for future planning and inspiration</li>
-      </ul>
-
-    </div>
-
-  </div>
-
-</div>
-<br>
+  <img align="center" src="../img/itinerease_home_mockup.png" width="300px">
 
 ## Itinerary 
 By selecting the calendar app from the bottom menu, users will see their daily itinerary, current budget, and estimated cost of the trip based on flights, accomodations, and activities. 
