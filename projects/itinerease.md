@@ -31,13 +31,15 @@ The home page provides users with an overview of their upcoming trip, including 
   <img align="left" width="300px" src="../img/itinerease_home_mockup.png">
 </div>
 
-* Goal: Provide travelers with a brief overview of their upcoming trip. 
-  * Key Elements: Trip countdown, upcoming activities, and saved destinations. 
+<li> Goal: Provide travelers with a brief overview of their upcoming trip. </li>
+<li>Key Elements: Trip countdown, upcoming activities, and saved destinations. </li>
+
+<br>
 
 ## Itinerary 
 By selecting the calendar app from the bottom menu, users will see their daily itinerary, current budget, and estimated cost of the trip based on flights, accomodations, and activities. 
 <div>
-  <img align="left" width="300px" src="../img/itinerary_mockup.png">
+  <img align="left" width="300px" height="600px" src="../img/itinerary_mockup.png">
 </div>
 
 Users can add an event to their itinerary by clicking the plus button then selecting the event type. Based on the event type selected, users can narrow down the event category. In the example, the user selected "Saved Activities", leading to a list of saved or booked activities. The user input the estimated time frame, cost, and has the option to add notes. Once saved, the new event appears in the daily intinerary. 
