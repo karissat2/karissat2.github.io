@@ -25,17 +25,17 @@ In order to solve these problems, IntinerEase offered four key features: budgeti
 I proposed the idea for ItinerEase based on my passion for travel and the desire for a single platform that simplifies the entire planning process. As part of the design team, I conducted user research and designed the wireframes and high-fidelity mockups for the home and itinerary pages.
 
 ## Home Page
-The home page provides users with an overview of their upcoming trip, including a countdown, upcoming activities based on the itinerary, and quick access to saved destinations.
-
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
   <img src="../img/itinerease_home_mockup.png" width="300px">
   <div>
+    <p>The home page provides users with an overview of their upcoming trip, including a countdown, upcoming activities based on the itinerary, and quick access to saved destinations.</p>
     <p><strong>Goal:</strong> Provide travelers with a brief overview of their upcoming trip.</p>
     <p><strong>Key Elements:</strong> Trip countdown, upcoming activities, and saved destinations.</p>
   </div>
 
 </div>
+<br>
 
 ## Itinerary 
 By selecting the calendar app from the bottom menu, users will see their daily itinerary, current budget, and estimated cost of the trip based on flights, accomodations, and activities. 
