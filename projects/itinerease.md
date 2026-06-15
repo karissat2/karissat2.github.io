@@ -35,6 +35,9 @@ The home page provides users with an overview of their upcoming trip, including 
 <li>Key Elements: Trip countdown, upcoming activities, and saved destinations. </li>
 
 <br>
+<br>
+<br>
+<br>
 
 ## Itinerary 
 By selecting the calendar app from the bottom menu, users will see their daily itinerary, current budget, and estimated cost of the trip based on flights, accomodations, and activities. 
