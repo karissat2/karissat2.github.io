@@ -15,6 +15,7 @@ summary: "Conceptualized and created a high fidelity mockup of a multifunctional
 <li><strong>Duration: </strong>1 semester/16 weeks</li>
 <li><strong>Tools: </strong>Figma, Notability, Google Docs </li>
 <li><strong>Responsibilities: </strong>Pitched multifunctional travel planning app, conducted user interviews, designed wireframes and high-fidelity mockups, developed home and itinerary pages. </li>
+<br>
 
 ## Overview 
 
@@ -39,17 +40,26 @@ I proposed the idea for ItinerEase based on my passion for travel and the desire
   </div>
   <center><img src="../img/itinerease_home_mockup.png" width="300px"></center>
 
-## Itinerary 
-By selecting the calendar app from the bottom menu, users will see their daily itinerary, current budget, and estimated cost of the trip based on flights, accomodations, and activities. 
+## Itinerary
+
+The itinerary page allows users to view and manage their daily schedule, budget, and estimated trip costs in one place.
+
+<div>
+  <p><strong>Issue:</strong> Travelers need a centralized way to manage schedules, budgets, and trip costs.</p>
+  <p><strong>Goal:</strong> Provide an organized view of daily plans and overall trip expenses.</p>
+  <p><strong>Design Solution:</strong> Create an itinerary dashboard where users can view their daily schedule, track spending, and manage trip activities efficiently.</p>
+
+  <p><strong>Key Elements:</strong></p>
+  <ul>
+    <li>Daily itinerary view with scheduled activities</li>
+    <li>Budget tracker and estimated trip cost breakdown</li>
+    <li>Add and remove events from itinerary calendar</li>
+  </ul>
+</div>
+
 <div style="margin-top: 20px;">
   <img src="../img/itinerary_mockup.png" width="300px">
 </div>
-
-Users can add an event to their itinerary by clicking the plus button then selecting the event type. Based on the event type selected, users can narrow down the event category. In the example, the user selected "Saved Activities", leading to a list of saved or booked activities. The user input the estimated time frame, cost, and has the option to add notes. Once saved, the new event appears in the daily intinerary. 
-<center><img width="700px" src="../img/itinerary_add_example.png"></center>
-
-Users can also delete an event from their itinerary calendar by tapping the event and hitting delete, confirming their action. 
-<center><img width="700px" src="../img/itinerary_delete_example.png"></center>
 
 ## Future Expansions 
 Future versions of ItinerEase could expand the user's travel planning experience by incorporating these features: 
