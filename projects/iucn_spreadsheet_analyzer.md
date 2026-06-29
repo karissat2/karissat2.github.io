@@ -6,9 +6,9 @@ title: "IUCN Spreadsheet Analyzer"
 date: 2025
 published: true
 labels:
+  - Software Engineering
   - Capstone Project
   - Python
-  - Software Engineering
 summary: "Partnered with a classmate and UH Manoa faculty sponsor to create a desktop app that analyzes Excel-based threat assessments from the IUCN Red List."
 ---
 
