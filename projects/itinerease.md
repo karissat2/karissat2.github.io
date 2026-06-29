@@ -25,6 +25,17 @@ In order to solve these problems, IntinerEase offered four key features: budgeti
 
 I proposed the idea for ItinerEase based on my passion for travel and the desire for a single platform that simplifies the entire planning process. As part of the design team, I conducted user research and designed the wireframes and high-fidelity mockups for the home and itinerary pages.
 
+## Research 
+
+### Persona 
+Each team member created a persona of a potential user. I created the persona Summer, a young college student looking to travel with friends. 
+
+## Wire Frames 
+
+### Task 1: Creating an Itinerary 
+Sequence 1: A user wants to manually plan her trip itinerary by hand. 
+
+
 ## Home Page
  The home page provides users with an overview of their upcoming trip, including a countdown, upcoming activities based on the itinerary, and quick access to saved destinations.
  <div>
@@ -68,4 +79,4 @@ Future versions of ItinerEase could expand the user's travel planning experience
 * Expanded cultural etiquette tips 
 * Optional AI-generated itinerary templates for travelers seeking planning assistance 
 
-View the [Live Figma Demo](https://www.figma.com/proto/9UGj3FXVvC7bISWQTZCKkZ/ItinerEase?node-id=71-1424&starting-point-node-id=71%3A1424) and the [Project Requirement Document](https://docs.google.com/document/d/19NFUBMDWor48_GyytEXFi6U-8g-63cwMYUC0l2U-bKA/edit?usp=sharing). 
+View the [ItinerEase Prototype](https://www.figma.com/proto/9UGj3FXVvC7bISWQTZCKkZ/ItinerEase?node-id=71-1424&starting-point-node-id=71%3A1424) and the [Project Requirement Document](https://docs.google.com/document/d/19NFUBMDWor48_GyytEXFi6U-8g-63cwMYUC0l2U-bKA/edit?usp=sharing). 
