@@ -13,12 +13,10 @@ labels:
   - Study Abroad
 summary: "With four other classmates in my software engineering course, we created a website dedicated to simplifying the process of choosing a study abroad program at our university UH Manoa."
 ---
-<ul>
   <li><strong>Role: </strong>UX/UI Designer, Full-Stack Developer (Team of 5)</li>
   <li><strong>Duration: </strong>1 semester/16 weeks</li>
   <li><strong>Tools: </strong>GitHub, React, Bootstrap </li>
   <li><strong>Responsibilities: </strong>Created initial program search page, MIX information page, and redesigned website layout. </li>
-<ul>
 <br>
 
 ## Overview
