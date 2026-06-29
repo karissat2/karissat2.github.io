@@ -10,6 +10,7 @@ labels:
   - JavaScript
   - CSS
   - Front-End Development
+  - App Development
   - Study Abroad
 summary: "With four other classmates in my software engineering course, we created a website dedicated to simplifying the process of choosing a study abroad program at our university UH Manoa."
 ---
