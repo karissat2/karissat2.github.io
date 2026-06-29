@@ -12,7 +12,7 @@ labels:
 summary: "Partnered with a classmate and UH Manoa faculty sponsor to create a desktop app that analyzes Excel-based threat assessments from the IUCN Red List."
 ---
 
-<li><strong>Role: </strong>Software Developer Point of Contact (Team of 2)</li>
+<li><strong>Role: </strong>Software Developer/Point of Contact (Team of 2)</li>
 <li><strong>Duration: </strong>1 semester/16 weeks</li>
 <li><strong>Tools: </strong>Github, ____ </li>
 <li><strong>Responsibilities: </strong>Became point of contact for our faculty sponsor and helped develop program requested by faculty member. </li>
