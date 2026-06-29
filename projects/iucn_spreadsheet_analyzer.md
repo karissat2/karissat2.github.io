@@ -24,12 +24,12 @@ Twenty graduate students in the School of Life Sciences (SoLS) at UH Manoa evalu
 ## Argument Maps 
 Dr. Mark Burgman, Director at UH Manoa's School of Life Sciences and our faculty sponsor for the project, provided example argument maps created by graduate students. The important aspects of each map were the threat, reasonsm evidence, and strength of the evidence fields. Ensuring the assessment followed a consistent format was crucial, allowing the GUI to parse the contents accurately or flag problematic files. 
 
-<center><img width="500px" src="../img/iucn/argument_map_ex.png"></center>
+<center><img width="600px" src="../img/iucn/argument_map_ex.png"></center>
 
 ## Results 
 The IUCN Spreadsheet Analyzer displays key information extracted from the Excel files such as the file name, assessed species, assessor’s name, the number of reasons provided, and the number of markers for reasons, rejections, or rebuttals. The analyzer shows a further detailed breakdown of the primary threat, reasonings, and the strength of the evidence. At the end of each analysis, the analyzer identifies missing terms from the claim within the reasons, and flags terms or phrases that appear only once across the argument map, indicating which argument maps need to be fixed. 
 
-<center><img width="500px" src="../img/iucn/result_txt_report.png"></center>
+<center><img width="600px" src="../img/iucn/result_txt_report.png"></center>
 
 
 View the [Threat Assessment Project Poster](https://drive.google.com/file/d/13DlpmIVkM7QGc3PDkds5MuCWflC6zK-b/view?usp=drive_link) that summarizes the project in a visual format. 

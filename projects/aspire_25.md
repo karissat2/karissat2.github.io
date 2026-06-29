@@ -32,14 +32,14 @@ Executives can view summaries of financial data, including overall performance m
 
 ### Landing Page 
 Executives can quickly review financial stress tests, income statements, and balance sheets filtered by year for high-level analysis.
- <center><img src="../img/aspire25/exec_mockup_landing.png" width="500px"></center>
+ <center><img src="../img/aspire25/exec_mockup_landing.png" width="700px"></center>
 
 ### Overview Page 
 Executives can analyze trends and key metrics across the three main financial categories, focusing on summarized financial performance rather than detailed data entry.
-<center><img src="../img/aspire25/exec_mockup_overview.png" width="500px"></center>
+<center><img src="../img/aspire25/exec_mockup_overview.png" width="700px"></center>
 
 ## Finalized Landing and Overview 
 ### Landing 
 Executives initally view the stress tests after logging in and can toggle the tests on or off to examine the different summaries, also having the same option for data from the Sustainability Model. 
-<center><img src="../img/aspire25/stress_test_graph.png" width="500px"></center>
-<center><img src="../img/aspire25/sus_model_graph.png" width="500px"></center>
+<center><img src="../img/aspire25/stress_test_graph.png" width="700px"></center>
+<center><img src="../img/aspire25/sus_model_graph.png" width="700px"></center>
