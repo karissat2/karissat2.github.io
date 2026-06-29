@@ -13,20 +13,27 @@ labels:
   - Study Abroad
 summary: "With four other classmates in my software engineering course, we created a website dedicated to simplifying the process of choosing a study abroad program at our university UH Manoa."
 ---
+<li><strong>Role: </strong>UX/UI Designer, Full-Stack Developer (Team of 5)</li>
+<li><strong>Duration: </strong>1 semester/16 weeks</li>
+<li><strong>Tools: </strong>GitHub, React, Bootstrap </li>
+<li><strong>Responsibilities: </strong>Created initial program search page, MIX information page, and redesigned website layout. </li>
+<br>
 
-Manoa Study Abroad Central is an application I developed with a few classmates from ICS 314, a software engineering course. The website’s purpose is to help UH Manoa students find more information about the different study abroad programs at our university. Since the different programs offer various types of experiences and partner with numerous schools and regions, Manoa Study Abroad Central helps students figure out which program is best for them. Our platform includes several features such as adding a post about one’s study abroad experience, reading reviews from previous or current study abroad students, information about the three different study abroad programs, and numerous universities partnered with UH. 
+## Overview
+
+Manoa Study Abroad Central is a web-based application that helps UH Manoa students discover more information about different study abroad programs at our university, developed with a few classmates from ICS 314, a software engineering course at UH Manoa. Since the three different study abroad programs offer various types of experiences and partner with numerous schools and regions, Manoa Study Abroad Central helps students figure out which program is best for them. Our platform includes several features such as adding a post about one’s study abroad experience, reading reviews from previous or current study abroad students, information about the three different study abroad programs, and numerous universities partnered with UH. This was my first, full-scale UX/UI and Software Engineering project. 
 
 In order to finish the project on time before our deadline, my teammates and I split up various tasks for three weeks, each of us having at least two tasks to complete for each respective week. 
 
 # First Week 
 
-For the first week, I started our GitHub organization and ReadMe file. I also created the initial landing page, the first page users view when visiting the website. 
+For the first week, I started our GitHub organization and ReadMe file. I also created the initial landing page, the first page users view when visiting the website. Users are greeted by the app's name, slogan, mission statement, and study abroad programs. 
 <center><img width="1000px" src="../img/msac-final/original-landing.png"></center>
-
+<br>
 
 # Second Week 
 
-During the second week, I improved the program selection page of our website. On the program selection page, users can search for information about a country or study abroad program. I updated the page so that users could find information about a program or country based on their preference. 
+During the second week, I improved the program selection page of our website by creating detailed selection options. On the program selection page, users can search for information about a country or study abroad program. I updated the page so that users could find information about a program or country based on their preference, having the page be flexible. By selecting "Program" in the initial dropdown menu, the second dropdown menu would show the three different study abroad programs at UH Manoa. However, if the user selecteed "Country/Region", the second dropdown menu would populate with  different countries or regions students can study in. 
 
 ### Program Search Page
 In the first dropdown menu, users could either select “Program” or “Country/Region”. 
@@ -39,6 +46,7 @@ If the user selects “Program”, the second dropdown menu populates with the d
 
 On the other hand, if the user selects “Country/Region”, the second drop-down menu would instead populate with different countries or regions available to study abroad students from UH Manoa. 
 <center><img width="1000px" src="../img/msac-final/program-selection-country.png"></center>
+<br>
 
 ### MIX Page
 I also created the informational page for the Manoa International Exchange (MIX) program at UH Manoa. The page gives a brief overview of the program followed by a link to the MIX homepage and a list of application requirements at the bottom of the page. 
@@ -47,7 +55,7 @@ I also created the informational page for the Manoa International Exchange (MIX)
 
 # Third Week 
 
-For the final week, I was in charge of improving the design of the landing page and subsequent pages available to users. 
+For the final week, I was in charge of improving the design of the landing page and subsequent pages available to users. Although I mainly focused on the look of the Landing and Home pages, every other page on the website followed the same layout and design/color scheme. 
 
 ### Updated Landing Page 
 I improved the design of the landing page and user pages using a CSS stylesheet and re-doing the layout of the landing page.
@@ -71,4 +79,4 @@ Throughout the project, I mostly worked on front-end development and web design,
 Additionally, I enjoyed working on this website since I’m interested in studying abroad. When researching the different programs and countries I could visit, I wish I had a resource like this where the miscellaneous study abroad information was packed into one place. It would’ve also been nice if I could read about different students’ study abroad experiences instead of asking around and learning by word of mouth. 
 
 
-Visit [Manoa Study Abroad Central](https://manoa-study-abroad-central.xyz/) as well as the [organization and source code](https://github.com/manoa-study-abroad-central). 
+Visit [Manoa Study Abroad Central Github Organization](https://github.com/manoa-study-abroad-central). 

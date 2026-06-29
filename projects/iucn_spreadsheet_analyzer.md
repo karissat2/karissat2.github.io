@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-//image: img/kpop-swap/kpop-swap-background-square.jpg
+//image: img/iucn/argument_map_ex.png
 title: "IUCN Spreadsheet Analyzer"
 date: 2025
 published: true
@@ -14,7 +14,7 @@ summary: "Partnered with a classmate and UH Manoa faculty sponsor to create a de
 
 <li><strong>Role: </strong>Software Developer/Point of Contact (Team of 2)</li>
 <li><strong>Duration: </strong>1 semester/16 weeks</li>
-<li><strong>Tools: </strong>Github, ____ </li>
+<li><strong>Tools: </strong>Github</li>
 <li><strong>Responsibilities: </strong>Became point of contact for our faculty sponsor and helped develop program requested by faculty member. </li>
 <br>
 
