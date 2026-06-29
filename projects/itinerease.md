@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/itinerease_banner_cropped.png
+image: img/itinerease/itinerease_banner_cropped.png
 title: "ItinerEase"
 date: 2025
 published: true
@@ -38,7 +38,7 @@ I proposed the idea for ItinerEase based on my passion for travel and the desire
       <li>Saved destinations for trip inspiration and access</li>
     </ul>
   </div>
-  <center><img src="../img/itinerease_home_mockup.png" width="300px"></center>
+  <center><img src="../img/itinerease/itinerease_home_mockup.png" width="300px"></center>
 
 ## Itinerary
 
@@ -58,7 +58,7 @@ The itinerary page allows users to view and manage their daily schedule, budget,
 </div>
 
 <center><div style="margin-top: 20px;">
-  <img src="../img/itinerary_mockup.png" width="300px">
+  <img src="../img/itinerease/itinerary_mockup.png" width="300px">
 </div></center>
 
 ## Future Expansions 
