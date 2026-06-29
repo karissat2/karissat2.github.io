@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kpop-swap/kpop-swap-background-square.jpg
+image: img/aspire25/aspire_banner.png
 title: "Aspire-25"
 date: 2025
 published: true
