@@ -8,6 +8,7 @@ published: true
 labels:
   - UX/UI Design
   - Figma
+  - App Development
 summary: "Conceptualized and created a high fidelity mockup of a multifunctional travel planning app."
 ---
 
