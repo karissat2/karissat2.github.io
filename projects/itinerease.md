@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/itinerease_banner_cropped.png
+image: img/itinerease/itinerease_banner_cropped.png
 title: "ItinerEase"
 date: 2025
 published: true
@@ -29,12 +29,53 @@ I proposed the idea for ItinerEase based on my passion for travel and the desire
 
 ### Persona 
 Each team member created a persona of a potential user. I created the persona Summer, a young college student looking to travel with friends. 
+  <center><img src="../img/itinerease/summer_persona.png" width="500px"></center>
+
+  ### Scenario 
+  I created the following scenario for the continuation of the persona of Summer. 
+
+​<p><strong>​Summer Plans a Budget-Friendly Adventure</strong></p>
+Summer and her friends want to visit Japan during their spring break. Since Summer is the most experienced traveler in the group, she’s responsible for planning their itinerary while sticking to a strict budget. While browsing the travel planning app, she filters her search for discounted flights. After booking their flights through the airline’s website, she comes back to the travel planning app and searches for cheap hotels or AirBnBs with good reviews. After figuring out their accommodations, Summer uses the itinerary section of the app to discover budget-friendly, hidden gem restaurants and cafes with great reviews. Furthermore, she also researches clothing stores with great deals and prices such as thrift shops or underground malls. She saves spots that she thinks the rest of the group will love and shares the itinerary with everyone else. The itinerary showcases the estimated cost of each activity, the approximate total for the trip, and how long each activity may take. Once she receives feedback from her friends, she can easily rearrange certain activities or take it out altogether. Additionally, she can plan out the order in which the group will do activities by looking at the map section and determining each location’s distance from each other as well as how to get there based on bus or subway routes. The travel planner suggests apps that may have more detailed information about Japan’s transportation systems and also offers an offline map that highlights bus and subway routes in case the internet connection is bad.
+
+### Core Features and Functionalities 
+
+1. Personalization and Recommendations 
+* Users can create profiles and input preferences (e.g., budget, interests, travel style).
+* AI-driven recommendations based on user preferences, location, and real-time events.
+* Offline access to saved recommendations and guides.
+
+2. Itinerary Planning and Coordination 
+* Users can manually create or auto-generate itineraries based on location and interests.
+* Estimated travel duration between destinations displayed in the itinerary.
+* Collaborative itinerary feature allows friends to contribute to trip planning.
+* Export or share itinerary with contacts for safety purposes.
+
+3. Transportation and Maps 
+* Public transit options with estimated costs and schedules.
+* Suggested third-party transit apps for detailed route planning.
+* Offline maps with preloaded routes for navigation without internet access.
 
 ## Wire Frames 
 
 ### Task 1: Creating an Itinerary 
 Sequence 1: A user wants to manually plan her trip itinerary by hand. 
+<center><img src="../img/itinerease/task1_seq1.png" width="500px"></center>
 
+Sequence 2: A user isn’t sure where to start with planning her trip, so she inputs her travel details and interests into a form. Based on her input, an AI tool generates a base template itinerary. She can keep the itinerary as is or make edits. 
+<center><img src="../img/itinerease/task1_seq2.png" width="500px"></center>
+
+Sequence 3: A user is going on a trip with other people. Although she’s the main organizer, she wants to gather feedback from her travel companions on what everyone wants to do and when. 
+<center><img src="../img/itinerease/task1_seq3.png" width="500px"></center>
+
+### Task 2: Finding a Destination and Activities 
+Sequence 1: The user isn’t sure where to travel for her next trip. She inputs her preferences and the app provides recommendations for destinations and activities based on her interest and travel style. 
+<center><img src="../img/itinerease/task2_seq1.png" width="500px"></center>
+
+Sequence 2: With an interactive map, the user can explore various activities or destinations based on location. 
+<center><img src="../img/itinerease/task2_seq2.png" width="500px"></center
+
+Sequence 3: Similar to Sequence 1, the user enters her travel details and interests, leading the app to generate activity suggestions. Since she'll be traveling with others, she can also see which activities her companions are interested in and their priority levels for each activity. 
+<center><img src="../img/itinerease/task2_seq3.png" width="500px"></center
 
 ## Home Page
  The home page provides users with an overview of their upcoming trip, including a countdown, upcoming activities based on the itinerary, and quick access to saved destinations.
@@ -49,7 +90,7 @@ Sequence 1: A user wants to manually plan her trip itinerary by hand.
       <li>Saved destinations for trip inspiration and access</li>
     </ul>
   </div>
-  <center><img src="../img/itinerease_home_mockup.png" width="300px"></center>
+  <center><img src="../img/itinerease/itinerease_home_mockup.png" width="300px"></center>
 
 ## Itinerary
 
@@ -69,7 +110,7 @@ The itinerary page allows users to view and manage their daily schedule, budget,
 </div>
 
 <center><div style="margin-top: 20px;">
-  <img src="../img/itinerary_mockup.png" width="300px">
+  <img src="../img/itinerease/itinerary_mockup.png" width="300px">
 </div></center>
 
 ## Future Expansions 
