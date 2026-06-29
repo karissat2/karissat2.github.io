@@ -24,23 +24,43 @@ summary: "With four other classmates in my software engineering course, we creat
 Manoa Study Abroad Central is a web-based application that helps UH Manoa students discover more information about different study abroad programs at our university, developed with a few classmates from ICS 314, a software engineering course at UH Manoa. Since the three different study abroad programs offer various types of experiences and partner with numerous schools and regions, Manoa Study Abroad Central helps students figure out which program is best for them. Our platform includes several features such as adding a post about one’s study abroad experience, reading reviews from previous or current study abroad students, information about the three different study abroad programs, and numerous universities partnered with UH. This was my first, full-scale UX/UI and Software Engineering project. 
 
 <p><strong>Goal:</strong> Build a centralized platform for UH students to explore study abroad programs.</p>
-<p><strong>My Role:</strong> Designed program selection page, MIX information page, key UI page designs, and implemented frontend components using React and Bootstrap.</p>
+<p><strong>My Role:</strong> Designed program selection page, MIX information page, key UI page designs, and implemented front-end components using React and Bootstrap.</p>
 
 ## Initial Setup
 
-I initially created the initial landing page, the first page viewed when visiting the website. Users are greeted by the app's name, slogan, mission statement, and study abroad programs. 
+By default when visiting the website, users are greeted by the app's name, slogan, mission statement, and study abroad programs. 
 <center><img width="1000px" src="../img/msac-final/original-landing.png"></center>
 <br>
 
 ## Program Selection Page Feature Development
 
-I improved the program selection page by creating detailed selection options. On the program selection page, users can search for information about a country or study abroad program. Based on the user's selection from the first dropdown menu, the second dropdown menu dynamically changes and shows different options. Pressing "Search" takes the user to the respective program or country's information page. 
-<center><img width="1000px" src="../img/msac-final/program-selection-orig.png"></center>
-<center><img width="1000px" src="../img/msac-final/program-selection-program.png"></center>
+<p>
+Users can search for study abroad programs or countries using a dynamic dropdown system. The second dropdown updates based on the user’s first selection, and the search button directs users to the relevant information page.
+</p>
 
-On the other hand, if the user selects “Country/Region”, the second drop-down menu would instead populate with different countries or regions available to study abroad students from UH Manoa. 
-<center><img width="1000px" src="../img/msac-final/program-selection-country.png"></center>
-<br>
+<ul>
+  <li>First dropdown selects either “Program” or “Country/Region”</li>
+  <li>Second dropdown dynamically updates based on selection</li>
+  <li>Search button routes user to the corresponding information page</li>
+</ul>
+
+<div class="image-section">
+
+  <div class="image-block">
+    <img class="project-img" src="../img/msac-final/program-selection-orig.png">
+    <p class="caption">Initial dropdown selection (Program vs Country/Region)</p>
+  </div>
+
+  <div class="image-block">
+    <img class="project-img" src="../img/msac-final/program-selection-program.png">
+    <p class="caption">Program selection dynamically populates available study abroad programs</p>
+  </div>
+
+  <div class="image-block">
+    <img class="project-img" src="../img/msac-final/program-selection-country.png">
+    <p class="caption">Country/Region selection updates dropdown with available destinations</p>
+  </div>
+</div>
 
 ### MIX Page
 The Manoa International Exchange (MIX) informational page gives a brief overview of the program followed by a link to the MIX homepage and a list of application requirements at the bottom of the page. 
