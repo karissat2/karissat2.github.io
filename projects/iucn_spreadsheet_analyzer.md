@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-//image: img/iucn/iucn_banner_cropped.png
+//image: img/iucn/iucn_analyzer_cropped.png
 title: "IUCN Spreadsheet Analyzer"
 date: 2025
 published: true
