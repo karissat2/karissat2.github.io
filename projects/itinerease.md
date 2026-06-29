@@ -19,9 +19,7 @@ summary: "Conceptualized and created a high fidelity mockup of a multifunctional
 
 ## Overview 
 
-ItinerEase is a mobile app built to help travelers plan and organize every aspect of their journey easily and confidently. Based on interviews with fellow classmates on their traveling experiences, our team identified several difficulties with travel planning such as organizing trip details, managing budgets, finding trustworthy recommendation, discovering authentic local experiences, and navigating unfamiliar locations. 
-
-In order to solve these problems, IntinerEase offered four key features: budgeting tools, itinerary planning, destination exploration, and favorites lists. 
+ItinerEase is a mobile app built to help travelers plan and organize every aspect of their journey easily and confidently. Based on interviews with fellow classmates on their traveling experiences, our team identified several difficulties with travel planning such as organizing trip details, managing budgets, finding trustworthy recommendation, discovering authentic local experiences, and navigating unfamiliar locations. In order to solve these problems, IntinerEase offered four key features: budgeting tools, itinerary planning, destination exploration, and favorites lists. 
 
 I proposed the idea for ItinerEase based on my passion for travel and the desire for a single platform that simplifies the entire planning process. As part of the design team, I conducted user research and designed the wireframes and high-fidelity mockups for the home and itinerary pages.
 
@@ -35,6 +33,7 @@ Each team member created a persona of a potential user. I created the persona Su
   I created the following scenario for the continuation of the persona of Summer. 
 
 ​<strong>​Summer Plans a Budget-Friendly Adventure</strong>
+
 Summer and her friends want to visit Japan during their spring break. Since Summer is the most experienced traveler in the group, she’s responsible for planning their itinerary while sticking to a strict budget. While browsing the travel planning app, she filters her search for discounted flights. After booking their flights through the airline’s website, she comes back to the travel planning app and searches for cheap hotels or AirBnBs with good reviews. After figuring out their accommodations, Summer uses the itinerary section of the app to discover budget-friendly, hidden gem restaurants and cafes with great reviews. Furthermore, she also researches clothing stores with great deals and prices such as thrift shops or underground malls. She saves spots that she thinks the rest of the group will love and shares the itinerary with everyone else. The itinerary showcases the estimated cost of each activity, the approximate total for the trip, and how long each activity may take. Once she receives feedback from her friends, she can easily rearrange certain activities or take it out altogether. Additionally, she can plan out the order in which the group will do activities by looking at the map section and determining each location’s distance from each other as well as how to get there based on bus or subway routes. The travel planner suggests apps that may have more detailed information about Japan’s transportation systems and also offers an offline map that highlights bus and subway routes in case the internet connection is bad.
 
 ### Core Features and Functionalities 
