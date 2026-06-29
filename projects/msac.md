@@ -6,71 +6,65 @@ title: "Manoa Study Abroad Central"
 date: 2023
 published: true
 labels:
+  -  UX/UI Design 
   - JavaScript
   - CSS
   - Front-End Development
-  - UI Design
   - Study Abroad
 summary: "With four other classmates in my software engineering course, we created a website dedicated to simplifying the process of choosing a study abroad program at our university UH Manoa."
 ---
-<li><strong>Role: </strong>UX/UI Designer, Full-Stack Developer (Team of 5)</li>
-<li><strong>Duration: </strong>1 semester/16 weeks</li>
-<li><strong>Tools: </strong>GitHub, React, Bootstrap </li>
-<li><strong>Responsibilities: </strong>Created initial program search page, MIX information page, and redesigned website layout. </li>
+<ul>
+  <li><strong>Role: </strong>UX/UI Designer, Full-Stack Developer (Team of 5)</li>
+  <li><strong>Duration: </strong>1 semester/16 weeks</li>
+  <li><strong>Tools: </strong>GitHub, React, Bootstrap </li>
+  <li><strong>Responsibilities: </strong>Created initial program search page, MIX information page, and redesigned website layout. </li>
+<ul>
 <br>
 
 ## Overview
 
 Manoa Study Abroad Central is a web-based application that helps UH Manoa students discover more information about different study abroad programs at our university, developed with a few classmates from ICS 314, a software engineering course at UH Manoa. Since the three different study abroad programs offer various types of experiences and partner with numerous schools and regions, Manoa Study Abroad Central helps students figure out which program is best for them. Our platform includes several features such as adding a post about one’s study abroad experience, reading reviews from previous or current study abroad students, information about the three different study abroad programs, and numerous universities partnered with UH. This was my first, full-scale UX/UI and Software Engineering project. 
 
-In order to finish the project on time before our deadline, my teammates and I split up various tasks for three weeks, each of us having at least two tasks to complete for each respective week. 
+<p><strong>Goal:</strong> Build a centralized platform for UH students to explore study abroad programs.</p>
+<p><strong>My Role:</strong> Designed program selection page, MIX information page, key UI page designs, and implemented frontend components using React and Bootstrap.</p>
 
-# First Week 
+## Initial Setup
 
-For the first week, I started our GitHub organization and ReadMe file. I also created the initial landing page, the first page users view when visiting the website. Users are greeted by the app's name, slogan, mission statement, and study abroad programs. 
+I initially created the initial landing page, the first page viewed when visiting the website. Users are greeted by the app's name, slogan, mission statement, and study abroad programs. 
 <center><img width="1000px" src="../img/msac-final/original-landing.png"></center>
 <br>
 
-# Second Week 
+## Program Selection Page Feature Development
 
-During the second week, I improved the program selection page of our website by creating detailed selection options. On the program selection page, users can search for information about a country or study abroad program. I updated the page so that users could find information about a program or country based on their preference, having the page be flexible. By selecting "Program" in the initial dropdown menu, the second dropdown menu would show the three different study abroad programs at UH Manoa. However, if the user selecteed "Country/Region", the second dropdown menu would populate with  different countries or regions students can study in. 
-
-### Program Search Page
-In the first dropdown menu, users could either select “Program” or “Country/Region”. 
+I improved the program selection page by creating detailed selection options. On the program selection page, users can search for information about a country or study abroad program. Based on the user's selection from the first dropdown menu, the second dropdown menu dynamically changes and shows different options. Pressing "Search" takes the user to the respective program or country's information page. 
 <center><img width="1000px" src="../img/msac-final/program-selection-orig.png"></center>
-
-
-If the user selects “Program”, the second dropdown menu populates with the different study abroad programs. After selecting a specific program and hitting “Search”, the application takes the user to the respective program’s informational page, though this feature was not yet implemented until week three by a teammate. 
 <center><img width="1000px" src="../img/msac-final/program-selection-program.png"></center>
-
 
 On the other hand, if the user selects “Country/Region”, the second drop-down menu would instead populate with different countries or regions available to study abroad students from UH Manoa. 
 <center><img width="1000px" src="../img/msac-final/program-selection-country.png"></center>
 <br>
 
 ### MIX Page
-I also created the informational page for the Manoa International Exchange (MIX) program at UH Manoa. The page gives a brief overview of the program followed by a link to the MIX homepage and a list of application requirements at the bottom of the page. 
+The Manoa International Exchange (MIX) informational page gives a brief overview of the program followed by a link to the MIX homepage and a list of application requirements at the bottom of the page. 
 <center><img width="1000px" src="../img/msac-final/mix-page.png"></center>
 
 
-# Third Week 
+## UI Refinement and Final Design
 
-For the final week, I was in charge of improving the design of the landing page and subsequent pages available to users. Although I mainly focused on the look of the Landing and Home pages, every other page on the website followed the same layout and design/color scheme. 
+For the final week, I redesigned the app's UI look. Although I mainly focused on the look of the Landing and Home pages, every other page on the website followed the same layout and design/color scheme. By researching examples of different travel websites, I used a CSS stylesheet and travel-themed components to create the website's visual look. 
 
 ### Updated Landing Page 
-I improved the design of the landing page and user pages using a CSS stylesheet and re-doing the layout of the landing page.
 <center><img width="1000px" src="../img/msac-final/landing1.png">
 <img width="1000px" src="../img/msac-final/landing2.png">
 <img width="1000px" src="../img/msac-final/landing3.png"></center>
 
 
 ### New Home Page
-I also created a new homepage that the user is redirected to after logging in to the website, which looks somewhat similar to the landing page and is different from the admin home page. To improve the user pages, I updated the CSS stylesheet so that the pages had continuity where each page would have the same background color, font, font color, and font size. 
 <center><img width="1000px" src="../img/msac-final/user-home.png">
 <img width="1000px" src="../img/msac-final/user-home2.png">
 </center>
 
-# Learning Outcomes
+# Learning Impact
 
 Although I sort of knew how to use BootStrap React beforehand, this project has exponentially helped me learn more about the different features of BootStrap React, giving me hands-on experience. Though I struggled through it, I learned how to create complex web pages. This project has also shown me what it takes to create a well-functioning application and what goes on behind the scenes of websites I use daily. 
 
