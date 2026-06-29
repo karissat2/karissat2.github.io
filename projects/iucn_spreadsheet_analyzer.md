@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-//image: img/iucn/argument_map_ex.png
+//image: img/iucn/iucn_analyzer.png
 title: "IUCN Spreadsheet Analyzer"
 date: 2025
 published: true
@@ -27,7 +27,7 @@ Dr. Mark Burgman, Director at UH Manoa's School of Life Sciences and our faculty
 <center><img width="500px" src="../img/iucn/argument_map_ex.png"></center>
 
 ## Results 
-The IUCN Spreadsheet Analyzer displays key information extracted from the Excelfiles such as the file name, assessed species, assessor’s name, the number ofreasons provided, and the number of markers for reasons, rejections, or rebuttals. The analyzer shows a further detailed breakdown of the primary threat, reasonings,and the strength of the evidence. At the end of each analysis, the analyzer identifies missing terms from the claim within the reasons, and flags terms or phrases that appear only once across the argument map, indicating which argument maps need to be fixed. 
+The IUCN Spreadsheet Analyzer displays key information extracted from the Excel files such as the file name, assessed species, assessor’s name, the number of reasons provided, and the number of markers for reasons, rejections, or rebuttals. The analyzer shows a further detailed breakdown of the primary threat, reasonings, and the strength of the evidence. At the end of each analysis, the analyzer identifies missing terms from the claim within the reasons, and flags terms or phrases that appear only once across the argument map, indicating which argument maps need to be fixed. 
 
 <center><img width="500px" src="../img/iucn/result_txt_report.png"></center>
 
