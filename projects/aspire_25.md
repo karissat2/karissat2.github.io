@@ -34,6 +34,6 @@ Executives can view summaries of financial data, including overall performance m
 Executives can quickly review financial stress tests, income statements, and balance sheets filtered by year for high-level analysis.
  <center><img src="../img/aspire25/exec_mockup_landing.png" width="500px"></center>
 
- ### Overview Page 
+### Overview Page 
 Executives can analyze trends and key metrics across the three main financial categories, focusing on summarized financial performance rather than detailed data entry.
 <center><img src="../img/aspire25/exec_mockup_overview.png" width="500px"></center>
