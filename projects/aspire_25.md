@@ -21,7 +21,7 @@ summary: "Collaborated with classmates to transition Spire Hawaii's Fiscal Susta
 ## Overview 
 Aspire-25 was a team-based project that aimed to develop a web application for Spire Hawaii, a Honolulu-based CPA firm. Our app transitioned Spire's Fiscal Sustainability Model (FSM) from a complex Excel-based tool into a user-friendly web platform, improving functionality and usability for financial forecasting. 
 
-Depending on one's role in the company, a user can view or edit different types of information. For this project, there will only be four different roles: Auditor, Analyst, Executive, and Admin. 
+Depending on one's role in the company, a user can view or edit different types of information. For this project, there will only be four different roles: Auditor, Analyst, Executive, and Admin. Users can only see financial data once they're logged in to their Google account, as the Admin assigned the user a specific role based on their email. 
 
 <p><strong>Issue:</strong> Financial data is currently being tracked using Excel spreadsheets. Spire Hawaii only wants certain roles to be able to view or edit different types of information. </p>
 <p><strong>Solution:</strong> Users can edit or view certain types of information based on their role and hiearchy in the company. </p>
@@ -37,3 +37,9 @@ Executives can quickly review financial stress tests, income statements, and bal
 ### Overview Page 
 Executives can analyze trends and key metrics across the three main financial categories, focusing on summarized financial performance rather than detailed data entry.
 <center><img src="../img/aspire25/exec_mockup_overview.png" width="500px"></center>
+
+## Finalized Landing and Overview 
+### Landing 
+Executives initally view the stress tests after logging in and can toggle the tests on or off to examine the different summaries, also having the same option for data from the Sustainability Model. 
+<center><img src="../img/aspire25/stress_test_graph.png" width="500px"></center>
+<center><img src="../img/aspire25/sus_model_graph.png" width="500px"></center>
