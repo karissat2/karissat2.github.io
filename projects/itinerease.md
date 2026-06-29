@@ -34,10 +34,10 @@ Each team member created a persona of a potential user. I created the persona Su
   ### Scenario 
   I created the following scenario for the continuation of the persona of Summer. 
 
-​<p><strong>​Summer Plans a Budget-Friendly Adventure</strong></p>
+​<strong>​Summer Plans a Budget-Friendly Adventure</strong>
 Summer and her friends want to visit Japan during their spring break. Since Summer is the most experienced traveler in the group, she’s responsible for planning their itinerary while sticking to a strict budget. While browsing the travel planning app, she filters her search for discounted flights. After booking their flights through the airline’s website, she comes back to the travel planning app and searches for cheap hotels or AirBnBs with good reviews. After figuring out their accommodations, Summer uses the itinerary section of the app to discover budget-friendly, hidden gem restaurants and cafes with great reviews. Furthermore, she also researches clothing stores with great deals and prices such as thrift shops or underground malls. She saves spots that she thinks the rest of the group will love and shares the itinerary with everyone else. The itinerary showcases the estimated cost of each activity, the approximate total for the trip, and how long each activity may take. Once she receives feedback from her friends, she can easily rearrange certain activities or take it out altogether. Additionally, she can plan out the order in which the group will do activities by looking at the map section and determining each location’s distance from each other as well as how to get there based on bus or subway routes. The travel planner suggests apps that may have more detailed information about Japan’s transportation systems and also offers an offline map that highlights bus and subway routes in case the internet connection is bad.
 
-### Core Features and Functionalities 
+  ### Core Features and Functionalities 
 
 1. Personalization and Recommendations 
 * Users can create profiles and input preferences (e.g., budget, interests, travel style).
@@ -58,24 +58,24 @@ Summer and her friends want to visit Japan during their spring break. Since Summ
 ## Wire Frames 
 
 ### Task 1: Creating an Itinerary 
-Sequence 1: A user wants to manually plan her trip itinerary by hand. 
+<strong>Sequence 1:</strong> A user wants to manually plan her trip itinerary by hand. 
 <center><img src="../img/itinerease/task1_seq1.png" width="500px"></center>
 
-Sequence 2: A user isn’t sure where to start with planning her trip, so she inputs her travel details and interests into a form. Based on her input, an AI tool generates a base template itinerary. She can keep the itinerary as is or make edits. 
+<strong>Sequence 2:</strong> A user isn’t sure where to start with planning her trip, so she inputs her travel details and interests into a form. Based on her input, an AI tool generates a base template itinerary. She can keep the itinerary as is or make edits. 
 <center><img src="../img/itinerease/task1_seq2.png" width="500px"></center>
 
-Sequence 3: A user is going on a trip with other people. Although she’s the main organizer, she wants to gather feedback from her travel companions on what everyone wants to do and when. 
+<strong>Sequence 3:</strong> A user is going on a trip with other people. Although she’s the main organizer, she wants to gather feedback from her travel companions on what everyone wants to do and when. 
 <center><img src="../img/itinerease/task1_seq3.png" width="500px"></center>
 
 ### Task 2: Finding a Destination and Activities 
-Sequence 1: The user isn’t sure where to travel for her next trip. She inputs her preferences and the app provides recommendations for destinations and activities based on her interest and travel style. 
+<strong>Sequence 1:</strong> The user isn’t sure where to travel for her next trip. She inputs her preferences and the app provides recommendations for destinations and activities based on her interest and travel style. 
 <center><img src="../img/itinerease/task2_seq1.png" width="500px"></center>
 
-Sequence 2: With an interactive map, the user can explore various activities or destinations based on location. 
-<center><img src="../img/itinerease/task2_seq2.png" width="500px"></center
+<strong>Sequence 2:</strong> With an interactive map, the user can explore various activities or destinations based on location. 
+<center><img src="../img/itinerease/task2_seq2.png" width="500px"></center>
 
-Sequence 3: Similar to Sequence 1, the user enters her travel details and interests, leading the app to generate activity suggestions. Since she'll be traveling with others, she can also see which activities her companions are interested in and their priority levels for each activity. 
-<center><img src="../img/itinerease/task2_seq3.png" width="500px"></center
+<strong>Sequence 3:</strong> Similar to Sequence 1, the user enters her travel details and interests, leading the app to generate activity suggestions. Since she'll be traveling with others, she can also see which activities her companions are interested in and their priority levels for each activity. 
+<center><img src="../img/itinerease/task2_seq3.png" width="500px"></center>
 
 ## Home Page
  The home page provides users with an overview of their upcoming trip, including a countdown, upcoming activities based on the itinerary, and quick access to saved destinations.
