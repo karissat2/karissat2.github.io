@@ -31,13 +31,13 @@ I proposed the idea for ItinerEase based on my passion for travel and the desire
 Each team member created a persona of a potential user. I created the persona Summer, a young college student looking to travel with friends. 
   <center><img src="../img/itinerease/summer_persona.png" width="500px"></center>
 
-  ### Scenario 
+### Scenario 
   I created the following scenario for the continuation of the persona of Summer. 
 
 ​<strong>​Summer Plans a Budget-Friendly Adventure</strong>
 Summer and her friends want to visit Japan during their spring break. Since Summer is the most experienced traveler in the group, she’s responsible for planning their itinerary while sticking to a strict budget. While browsing the travel planning app, she filters her search for discounted flights. After booking their flights through the airline’s website, she comes back to the travel planning app and searches for cheap hotels or AirBnBs with good reviews. After figuring out their accommodations, Summer uses the itinerary section of the app to discover budget-friendly, hidden gem restaurants and cafes with great reviews. Furthermore, she also researches clothing stores with great deals and prices such as thrift shops or underground malls. She saves spots that she thinks the rest of the group will love and shares the itinerary with everyone else. The itinerary showcases the estimated cost of each activity, the approximate total for the trip, and how long each activity may take. Once she receives feedback from her friends, she can easily rearrange certain activities or take it out altogether. Additionally, she can plan out the order in which the group will do activities by looking at the map section and determining each location’s distance from each other as well as how to get there based on bus or subway routes. The travel planner suggests apps that may have more detailed information about Japan’s transportation systems and also offers an offline map that highlights bus and subway routes in case the internet connection is bad.
 
-  ### Core Features and Functionalities 
+### Core Features and Functionalities 
 
 1. Personalization and Recommendations 
 * Users can create profiles and input preferences (e.g., budget, interests, travel style).
